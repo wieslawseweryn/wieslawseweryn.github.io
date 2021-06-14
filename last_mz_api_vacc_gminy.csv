@@ -13,11 +13,9 @@ m. Szczawno-Zdrój,wałbrzyski,739,65,457,827,652,dolnośląskie,:,5534,1811,"32
 Katowice,Katowice,35780,3781,35029,44819,29394,śląskie,:,290553,94775,"32,62%",148803,Katowice,śląskie
 m. Łeba,lęborski,396,36,264,495,468,pomorskie,:,3541,1138,"32,14%",1659,m. Łeba,pomorskie
 gm.w. Bobrowniki,będziński,1361,193,1176,2148,1268,śląskie,:,12122,3891,"32,10%",6146,gm.w. Bobrowniki,kujawsko-pomorskie
-gm.w. Bobrowniki,będziński,1361,193,1176,2148,1268,śląskie,:,12122,3891,"32,10%",6146,gm.w. Bobrowniki,śląskie
 gm.w. Suchy Las,poznański,1445,422,2295,3835,1615,wielkopolskie,:,18512,5915,"31,95%",9612,gm.w. Suchy Las,wielkopolskie
 gm.w. Branice,głubczycki,657,73,478,931,688,opolskie,:,6363,2023,"31,79%",2827,gm.w. Branice,opolskie
 gm.w. Michałowice,pruszkowski,1821,471,2221,3708,1850,mazowieckie,:,18361,5835,"31,78%",10071,gm.w. Michałowice,małopolskie
-gm.w. Michałowice,pruszkowski,1821,471,2221,3708,1850,mazowieckie,:,18361,5835,"31,78%",10071,gm.w. Michałowice,mazowieckie
 Kraków,Kraków,86089,10016,125824,124803,67133,małopolskie,:,779966,247821,"31,77%",413865,Kraków,małopolskie
 m. Krynica Morska,nowodworski,116,16,119,222,163,pomorskie,:,1290,407,"31,55%",636,m. Krynica Morska,pomorskie
 Opole,Opole,15006,1572,14030,19180,12187,opolskie,:,127839,40242,"31,48%",61975,Opole,opolskie
@@ -55,7 +53,6 @@ gm.w. Dygowo,kołobrzeski,462,37,458,864,600,zachodniopomorskie,:,5609,1660,"29,
 gm.w. Zielonki,krakowski,1677,469,3047,4678,1870,małopolskie,:,23690,7005,"29,57%",11741,gm.w. Zielonki,małopolskie
 m. Ustka,słupski,1994,152,1138,2028,1818,pomorskie,:,15199,4485,"29,51%",7130,m. Ustka,pomorskie
 m. Józefów,otwocki,2053,437,2100,3621,1894,mazowieckie,:,20741,6119,"29,50%",10105,m. Józefów,lubeskie
-m. Józefów,otwocki,2053,437,2100,3621,1894,mazowieckie,:,20741,6119,"29,50%",10105,m. Józefów,mazowieckie
 m. Darłowo,sławieński,1568,122,990,1831,1531,zachodniopomorskie,:,13574,4004,"29,50%",6042,m. Darłowo,zachodniopomorskie
 Zielona Góra,Zielona Góra,15389,2117,14360,21904,13963,lubuskie,:,140892,41503,"29,46%",67733,Zielona Góra,lubuskie
 m. Kołobrzeg,kołobrzeski,5501,291,3470,6754,5061,zachodniopomorskie,:,46198,13594,"29,43%",21077,m. Kołobrzeg,zachodniopomorskie
@@ -67,7 +64,6 @@ m. Lubin,lubiński,8695,908,5473,9545,7381,dolnośląskie,:,71710,20953,"29,22%"
 Koszalin,Koszalin,12973,1187,8730,14570,10738,zachodniopomorskie,:,106235,31042,"29,22%",48198,Koszalin,zachodniopomorskie
 m. Człuchów,człuchowski,1516,180,972,1789,1618,pomorskie,:,13479,3932,"29,17%",6075,m. Człuchów,pomorskie
 gm.w. Lubrza,świebodziński,269,33,347,581,354,lubuskie,:,3602,1049,"29,12%",1584,gm.w. Lubrza,lubuskie
-gm.w. Lubrza,świebodziński,269,33,347,581,354,lubuskie,:,3602,1049,"29,12%",1584,gm.w. Lubrza,opolskie
 m. Sokołów Podlaski,sokołowski,1793,114,1356,2511,1938,mazowieckie,:,18814,5459,"29,02%",7712,m. Sokołów Podlaski,mazowieckie
 m. Czarnków,czarnkowsko-trzcianecki,1220,80,926,1646,1258,wielkopolskie,:,10464,3034,"28,99%",5130,m. Czarnków,wielkopolskie
 m. Karpacz,jeleniogórski,443,48,362,596,541,dolnośląskie,:,4487,1300,"28,97%",1990,m. Karpacz,dolnośląskie
@@ -126,7 +122,6 @@ m. Sławno,sławieński,1363,126,928,1610,1297,zachodniopomorskie,:,12357,3430,"
 gm.w. Zabierzów,krakowski,2166,380,3027,4705,2284,małopolskie,:,27065,7506,"27,73%",12562,gm.w. Zabierzów,małopolskie
 gm.w. Kobylanka,stargardzki,411,69,482,961,536,zachodniopomorskie,:,5845,1621,"27,73%",2459,gm.w. Kobylanka,zachodniopomorskie
 gm.w. Konopnica,lubelski,1050,196,1256,2283,1167,lubelskie,:,14267,3955,"27,72%",5952,gm.w. Konopnica,lubeskie
-gm.w. Konopnica,lubelski,1050,196,1256,2283,1167,lubelskie,:,14267,3955,"27,72%",5952,gm.w. Konopnica,łódzkie
 gm.m-w. Choroszcz,białostocki,1087,119,1244,2182,1264,podlaskie,:,15781,4368,"27,68%",5896,gm.m-w. Choroszcz,podlaskie
 gm.w. Kolbudy,gdański,1148,339,2178,3250,1360,pomorskie,:,18165,5028,"27,68%",8275,gm.w. Kolbudy,pomorskie
 gm.m-w. Siewierz,będziński,1178,99,1073,1852,1302,śląskie,:,12387,3427,"27,67%",5504,gm.m-w. Siewierz,śląskie
@@ -169,7 +164,6 @@ m. Terespol,bialski,507,33,350,719,523,lubelskie,:,5457,1475,"27,03%",2132,m. Te
 m. Zgierz,zgierski,6584,763,5091,8810,5605,łódzkie,:,55673,15041,"27,02%",26853,m. Zgierz,łódzkie
 m. Przeworsk,przeworski,1389,122,1046,1793,1284,podkarpackie,:,15105,4082,"27,02%",5634,m. Przeworsk,podkarpackie
 gm.w. Czernichów,żywiecki,612,35,512,862,556,śląskie,:,6663,1799,27%,2577,gm.w. Czernichów,małopolskie
-gm.w. Czernichów,żywiecki,612,35,512,862,556,śląskie,:,6663,1799,27%,2577,gm.w. Czernichów,śląskie
 gm.w. Dywity,olsztyński,764,125,1094,2060,1108,warmińsko-mazurskie,:,12274,3314,27%,5151,gm.w. Dywity,warmińsko-mazurskie
 gm.m-w. Michałowo,białostocki,683,32,321,684,575,podlaskie,:,6446,1740,"26,99%",2295,gm.m-w. Michałowo,podlaskie
 m. Pruszcz Gdański,gdański,2652,407,3782,5033,2448,pomorskie,:,31578,8519,"26,98%",14322,m. Pruszcz Gdański,pomorskie
@@ -180,16 +174,13 @@ gm.w. Ksawerów,pabianicki,858,77,640,1157,665,łódzkie,:,7661,2061,"26,90%",33
 m. Żagań,żagański,2454,216,2216,3568,2727,lubuskie,:,25265,6780,"26,84%",11181,m. Żagań,lubuskie
 gm.m-w. Kamień Pomorski,kamieński,1502,79,992,1803,1543,zachodniopomorskie,:,14217,3815,"26,83%",5919,gm.m-w. Kamień Pomorski,zachodniopomorskie
 gm.w. Stężyca,rycki,520,31,381,681,500,lubelskie,:,5105,1368,"26,80%",2113,gm.w. Stężyca,lubeskie
-gm.w. Stężyca,rycki,520,31,381,681,500,lubelskie,:,5105,1368,"26,80%",2113,gm.w. Stężyca,pomorskie
 gm.w. Nieborów,łowicki,893,84,795,1445,957,łódzkie,:,9357,2507,"26,79%",4174,gm.w. Nieborów,łódzkie
 gm.w. Raszyn,pruszkowski,2077,370,2676,4142,2016,mazowieckie,:,21971,5880,"26,76%",11281,gm.w. Raszyn,mazowieckie
 Ostrołęka,Ostrołęka,4714,452,3656,6272,5350,mazowieckie,:,51656,13808,"26,73%",20444,Ostrołęka,mazowieckie
 gm.w. Jabłonna,legionowski,1260,420,2091,4244,1445,mazowieckie,:,20096,5363,"26,69%",9460,gm.w. Jabłonna,lubeskie
-gm.w. Jabłonna,legionowski,1260,420,2091,4244,1445,mazowieckie,:,20096,5363,"26,69%",9460,gm.w. Jabłonna,mazowieckie
 m. Ciechanów,ciechanowski,4110,460,4109,6221,5238,mazowieckie,:,43883,11710,"26,68%",20138,m. Ciechanów,mazowieckie
 Wałbrzych,Wałbrzych,12714,999,7819,13968,12660,dolnośląskie,:,109971,29319,"26,66%",48160,Wałbrzych,dolnośląskie
 m. Oleśnica,oleśnicki,4145,402,3479,5172,3167,dolnośląskie,:,36979,9854,"26,65%",16365,m. Oleśnica,dolnośląskie
-m. Oleśnica,oleśnicki,4145,402,3479,5172,3167,dolnośląskie,:,36979,9854,"26,65%",16365,m. Oleśnica,świętokrzyskie
 gm.m-w. Sobótka,wrocławski,1193,151,996,1736,1199,dolnośląskie,:,12872,3430,"26,65%",5275,gm.m-w. Sobótka,dolnośląskie
 m. Otwock,otwocki,4652,558,4240,7129,3804,mazowieckie,:,44317,11801,"26,63%",20383,m. Otwock,mazowieckie
 gm.m-w. Babimost,zielonogórski,577,49,465,828,603,lubuskie,:,6177,1639,"26,53%",2522,gm.m-w. Babimost,lubuskie
@@ -232,7 +223,6 @@ Tychy,Tychy,12246,1670,12019,17588,14026,śląskie,:,126871,33096,"26,09%",57549
 gm.m-w. Swarzędz,poznański,3800,788,6421,9271,4311,wielkopolskie,:,52206,13611,"26,07%",24591,gm.m-w. Swarzędz,wielkopolskie
 m. Nowa Sól,nowosolski,4285,361,3054,4812,4004,lubuskie,:,38191,9948,"26,05%",16516,m. Nowa Sól,lubuskie
 gm.m-w. Strzelin,strzeliński,2063,234,1867,3055,2214,dolnośląskie,:,22026,5735,"26,04%",9433,gm.m-w. Strzelin,dolnośląskie
-gm.w. Bolesław,olkuski,781,70,555,1017,676,małopolskie,:,7727,2012,"26,04%",3099,gm.w. Bolesław,małopolskie
 gm.w. Bolesław,olkuski,781,70,555,1017,676,małopolskie,:,7727,2012,"26,04%",3099,gm.w. Bolesław,małopolskie
 m. Pabianice,pabianicki,7870,472,4891,8550,6149,łódzkie,:,63945,16646,"26,03%",27932,m. Pabianice,łódzkie
 gm.m-w. Wasilków,białostocki,1128,167,1477,2415,1181,podlaskie,:,18067,4703,"26,03%",6368,gm.m-w. Wasilków,podlaskie
@@ -279,7 +269,6 @@ Mysłowice,Mysłowice,6601,926,7396,10996,6808,śląskie,:,74559,19125,"25,65%",
 gm.m-w. Olsztynek,olsztyński,1086,106,944,1813,1340,warmińsko-mazurskie,:,13630,3496,"25,65%",5289,gm.m-w. Olsztynek,warmińsko-mazurskie
 gm.m-w. Buk,poznański,1070,116,1269,1981,1077,wielkopolskie,:,12673,3251,"25,65%",5513,gm.m-w. Buk,wielkopolskie
 gm.w. Michałowice,krakowski,750,197,1262,2091,927,małopolskie,:,10909,2797,"25,64%",5227,gm.w. Michałowice,małopolskie
-gm.w. Michałowice,krakowski,750,197,1262,2091,927,małopolskie,:,10909,2797,"25,64%",5227,gm.w. Michałowice,mazowieckie
 Krosno,Krosno,4546,342,2998,5119,4103,podkarpackie,:,45944,11782,"25,64%",17108,Krosno,podkarpackie
 gm.w. Kozy,bielski,1088,106,1124,1834,1210,śląskie,:,13091,3357,"25,64%",5362,gm.w. Kozy,śląskie
 gm.w. Poraj,myszkowski,1113,82,678,1447,1083,śląskie,:,10822,2772,"25,61%",4403,gm.w. Poraj,śląskie
@@ -287,7 +276,6 @@ m. Lębork,lęborski,3242,224,2463,4253,3316,pomorskie,:,35101,8976,"25,57%",134
 m. Stoczek Łukowski,łukowski,301,16,148,264,250,lubelskie,:,2480,634,"25,56%",979,m. Stoczek Łukowski,lubeskie
 gm.w. Rychtal,kępiński,299,30,260,402,338,wielkopolskie,:,3791,969,"25,56%",1329,gm.w. Rychtal,wielkopolskie
 gm.w. Świdnica,zielonogórski,499,92,609,1108,652,lubuskie,:,6685,1708,"25,55%",2960,gm.w. Świdnica,dolnośląskie
-gm.w. Świdnica,zielonogórski,499,92,609,1108,652,lubuskie,:,6685,1708,"25,55%",2960,gm.w. Świdnica,lubuskie
 gm.m-w. Moryń,gryfiński,358,20,235,562,413,zachodniopomorskie,:,4244,1083,"25,52%",1588,gm.m-w. Moryń,zachodniopomorskie
 gm.m-w. Opatów,opatowski,1129,70,688,1451,1186,świętokrzyskie,:,11532,2938,"25,48%",4524,gm.m-w. Opatów,świętokrzyskie
 gm.w. Juchnowiec Kościelny,białostocki,967,144,1278,2330,1204,podlaskie,:,16932,4311,"25,46%",5923,gm.w. Juchnowiec Kościelny,podlaskie
@@ -305,7 +293,6 @@ gm.m-w. Połczyn-Zdrój,świdwiński,1471,97,920,1762,1551,zachodniopomorskie,:,
 gm.w. Lesznowola,piaseczyński,1590,782,4276,6365,1978,mazowieckie,:,29767,7526,"25,28%",14991,gm.w. Lesznowola,mazowieckie
 m. Gorlice,gorlicki,2763,177,1655,2903,2611,małopolskie,:,26973,6817,"25,27%",10109,m. Gorlice,małopolskie
 gm.w. Krasne,rzeszowski,805,117,939,1554,795,podkarpackie,:,11809,2983,"25,26%",4210,gm.w. Krasne,mazowieckie
-gm.w. Krasne,rzeszowski,805,117,939,1554,795,podkarpackie,:,11809,2983,"25,26%",4210,gm.w. Krasne,podkarpackie
 m. Lubliniec,lubliniecki,2030,209,1912,3257,2063,śląskie,:,23551,5949,"25,26%",9471,m. Lubliniec,śląskie
 m. Lipno,lipnowski,1240,106,1098,2028,1429,kujawsko-pomorskie,:,14283,3606,"25,25%",5901,m. Lipno,kujawsko-pomorskie
 gm.w. Maciejowice,garwoliński,592,23,430,953,592,mazowieckie,:,6871,1735,"25,25%",2590,gm.w. Maciejowice,mazowieckie
@@ -326,12 +313,10 @@ gm.w. Przeciszów,oświęcimski,669,51,594,1000,670,małopolskie,:,6739,1691,"25
 gm.w. Dobrzyniewo Duże,białostocki,653,76,654,1318,682,podlaskie,:,9619,2413,"25,09%",3383,gm.w. Dobrzyniewo Duże,podlaskie
 gm.m-w. Węgorzewo,węgorzewski,1541,122,1339,2223,1677,warmińsko-mazurskie,:,16443,4126,"25,09%",6902,gm.m-w. Węgorzewo,warmińsko-mazurskie
 gm.w. Dąbrowa,opolski,617,72,669,1093,726,opolskie,:,8252,2070,"25,08%",3177,gm.w. Dąbrowa,kujawsko-pomorskie
-gm.w. Dąbrowa,opolski,617,72,669,1093,726,opolskie,:,8252,2070,"25,08%",3177,gm.w. Dąbrowa,opolskie
 gm.m-w. Bytom Odrzański,nowosolski,471,32,345,671,513,lubuskie,:,5376,1347,"25,06%",2032,gm.m-w. Bytom Odrzański,lubuskie
 gm.m-w. Praszka,oleski,1356,63,840,1389,1452,opolskie,:,13374,3351,"25,06%",5100,gm.m-w. Praszka,opolskie
 gm.w. Chodów,kolski,294,18,174,374,272,wielkopolskie,:,2985,748,"25,06%",1132,gm.w. Chodów,wielkopolskie
 gm.w. Rokietnica,poznański,1083,344,2742,3708,1346,wielkopolskie,:,19326,4844,"25,06%",9223,gm.w. Rokietnica,podkarpackie
-gm.w. Rokietnica,poznański,1083,344,2742,3708,1346,wielkopolskie,:,19326,4844,"25,06%",9223,gm.w. Rokietnica,wielkopolskie
 m. Reda,wejherowski,1414,261,3192,3894,2265,pomorskie,:,26707,6688,"25,04%",11026,m. Reda,pomorskie
 gm.w. Pruszcz Gdański,gdański,1613,480,4195,5295,2139,pomorskie,:,32184,8055,"25,03%",13722,gm.w. Pruszcz Gdański,pomorskie
 m. Brodnica,brodnicki,2543,318,2605,4088,2821,kujawsko-pomorskie,:,28701,7182,"25,02%",12375,m. Brodnica,kujawsko-pomorskie
@@ -344,14 +329,12 @@ gm.m-w. Gryfino,gryfiński,2837,338,2579,4444,3317,zachodniopomorskie,:,31626,78
 m. Zgorzelec,zgorzelecki,3511,211,1646,3588,2817,dolnośląskie,:,29810,7438,"24,95%",11773,m. Zgorzelec,dolnośląskie
 m. Hrubieszów,hrubieszowski,1697,104,1197,2199,1720,lubelskie,:,17232,4298,"24,94%",6917,m. Hrubieszów,lubeskie
 gm.w. Konopnica,wieluński,414,31,238,475,342,łódzkie,:,3759,937,"24,93%",1500,gm.w. Konopnica,lubeskie
-gm.w. Konopnica,wieluński,414,31,238,475,342,łódzkie,:,3759,937,"24,93%",1500,gm.w. Konopnica,łódzkie
 gm.w. Kołobrzeg,kołobrzeski,724,71,943,1760,1061,zachodniopomorskie,:,10964,2733,"24,93%",4559,gm.w. Kołobrzeg,zachodniopomorskie
 m. Oświęcim,oświęcimski,4685,253,3006,5044,3442,małopolskie,:,37569,9361,"24,92%",16430,m. Oświęcim,małopolskie
 gm.w. Rogów,brzeziński,464,54,390,645,400,łódzkie,:,4656,1160,"24,91%",1953,gm.w. Rogów,łódzkie
 gm.m-w. Pobiedziska,poznański,1449,271,1998,3289,1716,wielkopolskie,:,19943,4968,"24,91%",8723,gm.m-w. Pobiedziska,wielkopolskie
 gm.w. Jaworze,bielski,748,68,628,1060,610,śląskie,:,7443,1853,"24,90%",3114,gm.w. Jaworze,śląskie
 gm.w. Zakrzewo,aleksandrowski,305,40,317,501,310,kujawsko-pomorskie,:,3480,866,"24,89%",1473,gm.w. Zakrzewo,kujawsko-pomorskie
-gm.w. Zakrzewo,aleksandrowski,305,40,317,501,310,kujawsko-pomorskie,:,3480,866,"24,89%",1473,gm.w. Zakrzewo,wielkopolskie
 gm.m-w. Wolbrom,olkuski,2109,196,1842,3190,2002,małopolskie,:,22614,5625,"24,87%",9339,gm.m-w. Wolbrom,małopolskie
 Kalisz,Kalisz,11076,925,7194,13305,9132,wielkopolskie,:,99106,24638,"24,86%",41632,Kalisz,wielkopolskie
 gm.w. Kłodawa,gorzowski,477,153,730,1475,816,lubuskie,:,8769,2178,"24,84%",3651,gm.w. Kłodawa,lubuskie
@@ -400,7 +383,6 @@ gm.w. Sztutowo,nowodworski,306,27,307,497,373,pomorskie,:,3622,884,"24,41%",1510
 Chełm,Chełm,5956,484,3782,7462,6335,lubelskie,:,61135,14914,"24,40%",24019,Chełm,lubeskie
 gm.m-w. Golczewo,kamieński,452,36,407,661,588,zachodniopomorskie,:,5844,1426,"24,40%",2144,gm.m-w. Golczewo,zachodniopomorskie
 gm.w. Rudnik,krasnostawski,338,17,151,316,228,lubelskie,:,2973,725,"24,39%",1050,gm.w. Rudnik,lubeskie
-gm.w. Rudnik,krasnostawski,338,17,151,316,228,lubelskie,:,2973,725,"24,39%",1050,gm.w. Rudnik,śląskie
 m. Górowo Iławeckie,bartoszycki,397,41,317,517,417,warmińsko-mazurskie,:,3887,948,"24,39%",1689,m. Górowo Iławeckie,warmińsko-mazurskie
 m. Lubań,lubański,2331,120,1330,2517,2002,dolnośląskie,:,20723,5053,"24,38%",8300,m. Lubań,dolnośląskie
 m. Racibórz,raciborski,4863,510,3864,6602,4567,śląskie,:,54259,13215,"24,36%",20406,m. Racibórz,śląskie
@@ -509,7 +491,6 @@ m. Nowe Miasto Lubawskie,nowomiejski,1002,66,736,1343,998,warmińsko-mazurskie,:
 gm.w. Stare Bogaczowice,wałbrzyski,333,58,331,593,414,dolnośląskie,:,4265,1002,"23,49%",1729,gm.w. Stare Bogaczowice,dolnośląskie
 gm.w. Mietków,wrocławski,319,27,284,466,397,dolnośląskie,:,3737,878,"23,49%",1493,gm.w. Mietków,dolnośląskie
 gm.w. Zakrzew,lubelski,291,13,152,274,229,lubelskie,:,2852,670,"23,49%",959,gm.w. Zakrzew,lubeskie
-gm.w. Zakrzew,lubelski,291,13,152,274,229,lubelskie,:,2852,670,"23,49%",959,gm.w. Zakrzew,mazowieckie
 gm.m-w. Chojna,gryfiński,968,53,760,1604,1238,zachodniopomorskie,:,13616,3197,"23,48%",4623,gm.m-w. Chojna,zachodniopomorskie
 gm.w. Witonia,łęczycki,330,17,224,444,331,łódzkie,:,3201,751,"23,46%",1346,gm.w. Witonia,łódzkie
 m. Kętrzyn,kętrzyński,2839,255,1861,3378,2751,warmińsko-mazurskie,:,26788,6285,"23,46%",11084,m. Kętrzyn,warmińsko-mazurskie
@@ -603,7 +584,6 @@ m. Żyrardów,żyrardowski,3841,307,2995,5005,3541,mazowieckie,:,39550,8998,"22,
 gm.w. Łańcut,łańcucki,1588,130,1439,2366,1460,podkarpackie,:,22026,5010,"22,75%",6983,gm.w. Łańcut,podkarpackie
 gm.m-w. Kępno,kępiński,2232,222,2004,3118,2002,wielkopolskie,:,24375,5546,"22,75%",9578,gm.m-w. Kępno,wielkopolskie
 gm.w. Ostrówek,wieluński,406,34,260,551,379,łódzkie,:,4473,1017,"22,74%",1630,gm.w. Ostrówek,lubeskie
-gm.w. Ostrówek,wieluński,406,34,260,551,379,łódzkie,:,4473,1017,"22,74%",1630,gm.w. Ostrówek,łódzkie
 gm.w. Janów Podlaski,bialski,410,42,297,563,481,lubelskie,:,5257,1195,"22,73%",1793,gm.w. Janów Podlaski,lubeskie
 gm.w. Iwanowice,krakowski,761,86,834,1483,741,małopolskie,:,9215,2095,"22,73%",3905,gm.w. Iwanowice,małopolskie
 gm.m-w. Jastarnia,pucki,328,18,227,517,312,pomorskie,:,3626,824,"22,72%",1402,gm.m-w. Jastarnia,pomorskie
@@ -619,7 +599,6 @@ gm.m-w. Trzebinia,chrzanowski,3072,357,2694,4632,3314,małopolskie,:,33633,7623,
 gm.w. Repki,sokołowski,518,13,264,518,413,mazowieckie,:,5091,1154,"22,67%",1726,gm.w. Repki,mazowieckie
 gm.w. Karnice,gryficki,298,19,234,491,362,zachodniopomorskie,:,3965,899,"22,67%",1404,gm.w. Karnice,zachodniopomorskie
 gm.w. Dobre,radziejowski,481,45,425,672,586,kujawsko-pomorskie,:,5296,1200,"22,66%",2209,gm.w. Dobre,kujawsko-pomorskie
-gm.w. Dobre,radziejowski,481,45,425,672,586,kujawsko-pomorskie,:,5296,1200,"22,66%",2209,gm.w. Dobre,mazowieckie
 gm.w. Damnica,słupski,344,40,404,693,559,pomorskie,:,6080,1377,"22,65%",2040,gm.w. Damnica,pomorskie
 gm.m-w. Gryfice,gryficki,2059,158,1645,2828,2268,zachodniopomorskie,:,23647,5355,"22,65%",8958,gm.m-w. Gryfice,zachodniopomorskie
 gm.w. Żukowice,głogowski,226,24,267,468,285,dolnośląskie,:,3469,785,"22,63%",1270,gm.w. Żukowice,dolnośląskie
@@ -632,8 +611,6 @@ gm.w. Nozdrzec,brzozowski,735,42,383,760,557,podkarpackie,:,7912,1788,"22,60%",2
 gm.m-w. Resko,łobeski,709,52,525,901,772,zachodniopomorskie,:,7885,1782,"22,60%",2959,gm.m-w. Resko,zachodniopomorskie
 gm.m-w. Łazy,zawierciański,1463,173,1141,2246,1578,śląskie,:,15851,3580,"22,59%",6601,gm.m-w. Łazy,śląskie
 gm.w. Poświętne,opoczyński,333,23,187,326,254,łódzkie,:,3101,700,"22,57%",1123,gm.w. Poświętne,łódzkie
-gm.w. Poświętne,opoczyński,333,23,187,326,254,łódzkie,:,3101,700,"22,57%",1123,gm.w. Poświętne,mazowieckie
-gm.w. Poświętne,opoczyński,333,23,187,326,254,łódzkie,:,3101,700,"22,57%",1123,gm.w. Poświętne,podlaskie
 gm.w. Inowłódz,tomaszowski,386,27,247,439,371,łódzkie,:,3819,862,"22,57%",1470,gm.w. Inowłódz,łódzkie
 gm.m-w. Drawno,choszczeński,443,42,328,601,538,zachodniopomorskie,:,4993,1127,"22,57%",1952,gm.m-w. Drawno,zachodniopomorskie
 gm.w. Bojszowy,bieruńsko-lędziński,465,92,802,1150,579,śląskie,:,8045,1815,"22,56%",3088,gm.w. Bojszowy,śląskie
@@ -698,7 +675,6 @@ m. Starogard Gdański,starogardzki,4371,267,3279,5372,3815,pomorskie,:,47272,105
 gm.m-w. Krynica-Zdrój,nowosądecki,1469,119,1221,1898,1336,małopolskie,:,16596,3687,"22,22%",6043,gm.m-w. Krynica-Zdrój,małopolskie
 m. Szklarska Poręba,jeleniogórski,630,42,410,746,710,dolnośląskie,:,6653,1477,"22,20%",2538,m. Szklarska Poręba,dolnośląskie
 gm.w. Czarnocin,piotrkowski,347,18,262,531,389,łódzkie,:,4141,919,"22,19%",1547,gm.w. Czarnocin,łódzkie
-gm.w. Czarnocin,piotrkowski,347,18,262,531,389,łódzkie,:,4141,919,"22,19%",1547,gm.w. Czarnocin,świętokrzyskie
 gm.w. Czarny Bór,wałbrzyski,363,55,380,678,449,dolnośląskie,:,4882,1083,"22,18%",1925,gm.w. Czarny Bór,dolnośląskie
 gm.w. Puławy,puławski,1072,79,809,1528,1006,lubelskie,:,12162,2698,"22,18%",4494,gm.w. Puławy,lubeskie
 gm.m-w. Krzanowice,raciborski,409,46,395,626,413,śląskie,:,5676,1259,"22,18%",1889,gm.m-w. Krzanowice,śląskie
@@ -729,7 +705,6 @@ gm.m-w. Tyczyn,rzeszowski,683,93,723,1238,596,podkarpackie,:,10662,2347,"22,01%"
 gm.w. Kluczewsko,włoszczowski,415,29,307,573,419,świętokrzyskie,:,5157,1135,"22,01%",1743,gm.w. Kluczewsko,świętokrzyskie
 gm.w. Jeżów,brzeziński,297,26,213,408,261,łódzkie,:,3328,732,22%,1205,gm.w. Jeżów,łódzkie
 gm.w. Czarnocin,kazimierski,399,19,218,435,338,świętokrzyskie,:,3723,819,22%,1409,gm.w. Czarnocin,łódzkie
-gm.w. Czarnocin,kazimierski,399,19,218,435,338,świętokrzyskie,:,3723,819,22%,1409,gm.w. Czarnocin,świętokrzyskie
 gm.w. Secemin,włoszczowski,500,14,240,457,450,świętokrzyskie,:,4725,1039,"21,99%",1661,gm.w. Secemin,świętokrzyskie
 gm.w. Miękinia,średzki,991,179,1796,2823,1271,dolnośląskie,:,17615,3872,"21,98%",7060,gm.w. Miękinia,dolnośląskie
 gm.m-w. Ziębice,ząbkowicki,1626,131,1039,1807,1574,dolnośląskie,:,16768,3686,"21,98%",6177,gm.m-w. Ziębice,dolnośląskie
@@ -742,7 +717,6 @@ gm.m-w. Karlino,białogardzki,639,87,519,967,805,zachodniopomorskie,:,9093,1997,
 m. Kolno,kolneński,706,41,608,997,870,podlaskie,:,10143,2226,"21,95%",3222,m. Kolno,podlaskie
 gm.w. Żołynia,łańcucki,524,21,453,681,426,podkarpackie,:,7037,1544,"21,94%",2105,gm.w. Żołynia,podkarpackie
 gm.w. Czernichów,krakowski,975,108,1277,2038,1101,małopolskie,:,14704,3225,"21,93%",5499,gm.w. Czernichów,małopolskie
-gm.w. Czernichów,krakowski,975,108,1277,2038,1101,małopolskie,:,14704,3225,"21,93%",5499,gm.w. Czernichów,śląskie
 gm.w. Bodzanów,płocki,697,42,524,1002,745,mazowieckie,:,8152,1788,"21,93%",3010,gm.w. Bodzanów,mazowieckie
 gm.m-w. Pszczyna,pszczyński,4162,441,4568,7197,4071,śląskie,:,52823,11583,"21,93%",20439,gm.m-w. Pszczyna,śląskie
 gm.m-w. Pogorzela,gostyński,393,37,392,732,464,wielkopolskie,:,4907,1076,"21,93%",2018,gm.m-w. Pogorzela,wielkopolskie
@@ -766,7 +740,6 @@ gm.m-w. Końskie,konecki,3646,201,2240,4220,3128,świętokrzyskie,:,34857,7601,"
 gm.w. Krzczonów,lubelski,431,29,191,426,358,lubelskie,:,4293,936,"21,80%",1435,gm.w. Krzczonów,lubeskie
 gm.w. Mińsk Mazowiecki,miński,870,172,1259,2339,1094,mazowieckie,:,15673,3416,"21,80%",5734,gm.w. Mińsk Mazowiecki,mazowieckie
 gm.w. Krasne,przasnyski,318,15,249,401,383,mazowieckie,:,3560,776,"21,80%",1366,gm.w. Krasne,mazowieckie
-gm.w. Krasne,przasnyski,318,15,249,401,383,mazowieckie,:,3560,776,"21,80%",1366,gm.w. Krasne,podkarpackie
 gm.m-w. Opatowiec,kazimierski,337,15,203,350,305,świętokrzyskie,:,3230,704,"21,80%",1210,gm.m-w. Opatowiec,świętokrzyskie
 gm.w. Dragacz,świecki,467,53,423,802,628,kujawsko-pomorskie,:,7190,1567,"21,79%",2373,gm.w. Dragacz,kujawsko-pomorskie
 m. Zduńska Wola,zduńskowolski,4268,307,2644,4652,3925,łódzkie,:,41288,8996,"21,79%",15796,m. Zduńska Wola,łódzkie
@@ -819,7 +792,6 @@ gm.m-w. Paczków,nyski,1138,125,795,1397,1221,opolskie,:,12429,2684,"21,59%",467
 gm.w. Siedlisko,nowosolski,249,34,237,484,304,lubuskie,:,3554,767,"21,58%",1308,gm.w. Siedlisko,lubuskie
 gm.w. Bolimów,skierniewicki,377,26,317,533,358,łódzkie,:,4026,868,"21,56%",1611,gm.w. Bolimów,łódzkie
 gm.w. Dobre,miński,458,30,405,721,467,mazowieckie,:,5970,1287,"21,56%",2081,gm.w. Dobre,kujawsko-pomorskie
-gm.w. Dobre,miński,458,30,405,721,467,mazowieckie,:,5970,1287,"21,56%",2081,gm.w. Dobre,mazowieckie
 gm.w. Dubicze Cerkiewne,hajnowski,213,4,37,109,83,podlaskie,:,1433,309,"21,56%",446,gm.w. Dubicze Cerkiewne,podlaskie
 m. Kudowa-Zdrój,kłodzki,1069,42,568,1100,827,dolnośląskie,:,9772,2106,"21,55%",3606,m. Kudowa-Zdrój,dolnośląskie
 gm.m-w. Koronowo,bydgoski,1917,192,1856,3456,2229,kujawsko-pomorskie,:,24109,5196,"21,55%",9650,gm.m-w. Koronowo,kujawsko-pomorskie
@@ -861,7 +833,6 @@ gm.m-w. Więcbork,sępoleński,1174,112,962,1608,1175,kujawsko-pomorskie,:,13309
 gm.w. Gródek,białostocki,586,23,260,530,444,podlaskie,:,5093,1089,"21,38%",1843,gm.w. Gródek,podlaskie
 m. Golub-Dobrzyń,golubsko-dobrzyński,1040,87,1043,1645,1176,kujawsko-pomorskie,:,12412,2652,"21,37%",4991,m. Golub-Dobrzyń,kujawsko-pomorskie
 gm.w. Brzeźnica,żagański,284,42,311,437,306,lubuskie,:,3721,795,"21,37%",1380,gm.w. Brzeźnica,lubuskie
-gm.w. Brzeźnica,żagański,284,42,311,437,306,lubuskie,:,3721,795,"21,37%",1380,gm.w. Brzeźnica,małopolskie
 gm.w. Gruta,grudziądzki,487,37,357,736,539,kujawsko-pomorskie,:,6437,1375,"21,36%",2156,gm.w. Gruta,kujawsko-pomorskie
 gm.m-w. Wyszków,wyszkowski,3076,287,2886,5046,3365,mazowieckie,:,39708,8481,"21,36%",14660,gm.m-w. Wyszków,mazowieckie
 gm.w. Goczałkowice-Zdrój,pszczyński,547,61,537,965,513,śląskie,:,6735,1437,"21,34%",2623,gm.w. Goczałkowice-Zdrój,śląskie
@@ -1001,7 +972,6 @@ gm.m-w. Rzepin,słubicki,776,145,757,1480,860,lubuskie,:,9678,1998,"20,64%",4018
 gm.m-w. Działoszyn,pajęczański,1006,96,987,1619,1096,łódzkie,:,12346,2548,"20,64%",4804,gm.m-w. Działoszyn,łódzkie
 gm.w. Sochocin,płoński,440,28,392,682,520,mazowieckie,:,5752,1187,"20,64%",2062,,
 gm.w. Wilków,opolski,379,16,188,422,350,lubelskie,:,4367,901,"20,63%",1355,gm.w. Wilków,lubeskie
-gm.w. Wilków,opolski,379,16,188,422,350,lubelskie,:,4367,901,"20,63%",1355,gm.w. Wilków,opolskie
 gm.w. Domaszowice,namysłowski,323,30,201,384,339,opolskie,:,3573,737,"20,63%",1277,gm.w. Domaszowice,opolskie
 gm.m-w. Chmielnik,kielecki,952,48,716,1228,779,świętokrzyskie,:,11170,2304,"20,63%",3723,gm.m-w. Chmielnik,świętokrzyskie
 gm.m-w. Pajęczno,pajęczański,1056,128,842,1453,975,łódzkie,:,11491,2369,"20,62%",4454,gm.m-w. Pajęczno,łódzkie
@@ -1028,11 +998,8 @@ gm.w. Kraśniczyn,krasnostawski,330,9,167,302,339,lubelskie,:,3573,734,"20,54%",
 gm.m-w. Żychlin,kutnowski,1245,64,677,1316,1234,łódzkie,:,11628,2388,"20,54%",4536,gm.m-w. Żychlin,łódzkie
 gm.w. Łubniany,opolski,690,90,686,1241,647,opolskie,:,9938,2041,"20,54%",3354,gm.w. Łubniany,opolskie
 gm.w. Łubnice,staszowski,420,30,232,451,347,świętokrzyskie,:,4067,835,"20,53%",1480,gm.w. Łubnice,łódzkie
-gm.w. Łubnice,staszowski,420,30,232,451,347,świętokrzyskie,:,4067,835,"20,53%",1480,gm.w. Łubnice,świętokrzyskie
 gm.w. Puszcza Mariańska,żyrardowski,694,81,584,1046,738,mazowieckie,:,8673,1780,"20,52%",3143,gm.w. Puszcza Mariańska,mazowieckie
 gm.w. Osiek,starogardzki,213,9,150,295,206,pomorskie,:,2373,487,"20,52%",873,gm.w. Osiek,kujawsko-pomorskie
-gm.w. Osiek,starogardzki,213,9,150,295,206,pomorskie,:,2373,487,"20,52%",873,gm.w. Osiek,małopolskie
-gm.w. Osiek,starogardzki,213,9,150,295,206,pomorskie,:,2373,487,"20,52%",873,gm.w. Osiek,pomorskie
 gm.m-w. Tarnogród,biłgorajski,574,38,342,611,570,lubelskie,:,6616,1357,"20,51%",2135,gm.m-w. Tarnogród,lubeskie
 gm.w. Ułęż,rycki,295,10,181,254,285,lubelskie,:,3145,645,"20,51%",1025,gm.w. Ułęż,lubeskie
 gm.w. Obrazów,sandomierski,603,34,418,744,553,świętokrzyskie,:,6381,1309,"20,51%",2352,gm.w. Obrazów,świętokrzyskie
@@ -1046,7 +1013,6 @@ gm.m-w. Jasień,żarski,577,49,413,784,629,lubuskie,:,6962,1425,"20,47%",2452,gm
 gm.w. Miedziana Góra,kielecki,747,108,829,1445,881,świętokrzyskie,:,11722,2399,"20,47%",4010,gm.w. Miedziana Góra,świętokrzyskie
 gm.m-w. Lewin Brzeski,brzeski,1066,101,813,1406,1031,opolskie,:,12844,2628,"20,46%",4417,gm.m-w. Lewin Brzeski,opolskie
 gm.w. Rybno,działdowski,468,29,450,852,564,warmińsko-mazurskie,:,7160,1465,"20,46%",2363,gm.w. Rybno,mazowieckie
-gm.w. Rybno,działdowski,468,29,450,852,564,warmińsko-mazurskie,:,7160,1465,"20,46%",2363,gm.w. Rybno,warmińsko-mazurskie
 gm.w. Marianowo,stargardzki,186,10,173,328,234,zachodniopomorskie,:,3089,632,"20,46%",931,gm.w. Marianowo,zachodniopomorskie
 gm.w. Pątnów,wieluński,557,54,409,824,467,łódzkie,:,6512,1332,"20,45%",2311,gm.w. Pątnów,łódzkie
 gm.w. Biskupice,wielicki,616,64,874,1438,745,małopolskie,:,10556,2159,"20,45%",3737,gm.w. Biskupice,małopolskie
@@ -1108,7 +1074,6 @@ gm.w. Kozielice,pyrzycki,172,12,161,297,214,zachodniopomorskie,:,2481,500,"20,15
 gm.m-w. Frombork,braniewski,299,10,213,402,329,warmińsko-mazurskie,:,3515,708,"20,14%",1253,gm.m-w. Frombork,warmińsko-mazurskie
 m. Złotów,złotowski,1729,141,1325,2203,1785,wielkopolskie,:,18437,3711,"20,13%",7183,m. Złotów,wielkopolskie
 gm.w. Świdnica,świdnicki,1090,165,1191,2286,1524,dolnośląskie,:,17400,3501,"20,12%",6256,gm.w. Świdnica,dolnośląskie
-gm.w. Świdnica,świdnicki,1090,165,1191,2286,1524,dolnośląskie,:,17400,3501,"20,12%",6256,gm.w. Świdnica,lubuskie
 gm.m-w. Brześć Kujawski,włocławski,834,90,779,1557,956,kujawsko-pomorskie,:,11352,2284,"20,12%",4216,gm.m-w. Brześć Kujawski,kujawsko-pomorskie
 gm.w. Rudniki,oleski,771,40,473,845,721,opolskie,:,8082,1626,"20,12%",2850,gm.w. Rudniki,opolskie
 gm.w. Wiżajny,suwalski,217,15,103,215,174,podlaskie,:,2311,465,"20,12%",724,gm.w. Wiżajny,podlaskie
@@ -1119,10 +1084,7 @@ gm.m-w. Nowa Słupia,kielecki,733,53,596,1004,811,świętokrzyskie,:,9361,1882,"
 gm.w. Lewin Kłodzki,kłodzki,166,15,99,238,154,dolnośląskie,:,1921,386,"20,09%",672,gm.w. Lewin Kłodzki,dolnośląskie
 gm.m-w. Brzesko,brzeski,2648,237,2413,3959,2646,małopolskie,:,36264,7284,"20,09%",11903,gm.m-w. Brzesko,małopolskie
 gm.w. Bobrowniki,lipnowski,187,17,198,414,215,kujawsko-pomorskie,:,3093,621,"20,08%",1031,gm.w. Bobrowniki,kujawsko-pomorskie
-gm.w. Bobrowniki,lipnowski,187,17,198,414,215,kujawsko-pomorskie,:,3093,621,"20,08%",1031,gm.w. Bobrowniki,śląskie
 gm.w. Osiek,oświęcimski,671,32,522,1059,681,małopolskie,:,8271,1661,"20,08%",2965,gm.w. Osiek,kujawsko-pomorskie
-gm.w. Osiek,oświęcimski,671,32,522,1059,681,małopolskie,:,8271,1661,"20,08%",2965,gm.w. Osiek,małopolskie
-gm.w. Osiek,oświęcimski,671,32,522,1059,681,małopolskie,:,8271,1661,"20,08%",2965,gm.w. Osiek,pomorskie
 gm.w. Joniec,płoński,241,14,210,303,213,mazowieckie,:,2650,532,"20,08%",981,gm.w. Joniec,mazowieckie
 gm.m-w. Rabka-Zdrój,nowotarski,1438,99,1049,1802,1113,małopolskie,:,16987,3409,"20,07%",5501,gm.m-w. Rabka-Zdrój,małopolskie
 gm.w. Brudzeń Duży,płocki,595,40,448,853,563,mazowieckie,:,8236,1653,"20,07%",2499,gm.w. Brudzeń Duży,mazowieckie
@@ -1158,7 +1120,6 @@ gm.m-w. Witkowo,gnieźnieński,1054,82,1054,1862,1200,wielkopolskie,:,13512,2689
 gm.m-w. Mirsk,lwówecki,768,43,462,865,809,dolnośląskie,:,8461,1683,"19,89%",2947,gm.m-w. Mirsk,dolnośląskie
 gm.m-w. Dąbrowa Białostock,sokólski,1022,27,552,1073,893,podlaskie,:,11169,2222,"19,89%",3567,,
 gm.w. Słupia,jędrzejowski,430,20,270,520,413,świętokrzyskie,:,4278,851,"19,89%",1653,gm.w. Słupia,łódzkie
-gm.w. Słupia,jędrzejowski,430,20,270,520,413,świętokrzyskie,:,4278,851,"19,89%",1653,gm.w. Słupia,świętokrzyskie
 gm.w. Wapno,wągrowiecki,228,16,215,338,288,wielkopolskie,:,2931,583,"19,89%",1085,gm.w. Wapno,wielkopolskie
 gm.m-w. Opalenica,nowotomyski,1296,123,1272,1999,1380,wielkopolskie,:,16357,3251,"19,88%",6070,gm.m-w. Opalenica,wielkopolskie
 gm.m-w. Kalisz Pomorski,drawski,572,51,487,869,686,zachodniopomorskie,:,7330,1457,"19,88%",2665,gm.m-w. Kalisz Pomorski,zachodniopomorskie
@@ -1190,7 +1151,6 @@ gm.m-w. Jeziorany,olsztyński,536,33,427,820,669,warmińsko-mazurskie,:,7601,150
 gm.m-w. Kamień Krajeński,sępoleński,516,58,506,746,602,kujawsko-pomorskie,:,6834,1352,"19,78%",2428,gm.m-w. Kamień Krajeński,kujawsko-pomorskie
 gm.w. Łomazy,bialski,409,31,296,497,293,lubelskie,:,4878,965,"19,78%",1526,gm.w. Łomazy,lubeskie
 gm.w. Rybno,sochaczewski,258,20,239,325,297,mazowieckie,:,3469,686,"19,78%",1139,gm.w. Rybno,mazowieckie
-gm.w. Rybno,sochaczewski,258,20,239,325,297,mazowieckie,:,3469,686,"19,78%",1139,gm.w. Rybno,warmińsko-mazurskie
 gm.w. Chmielnik,rzeszowski,408,51,437,691,368,podkarpackie,:,6968,1378,"19,78%",1955,gm.w. Chmielnik,podkarpackie
 gm.m-w. Modliborzyce,janowski,517,29,362,709,479,lubelskie,:,6914,1367,"19,77%",2096,gm.m-w. Modliborzyce,lubeskie
 gm.w. Tarnów Opolski,opolski,682,69,796,1100,686,opolskie,:,9632,1904,"19,77%",3333,gm.w. Tarnów Opolski,opolskie
@@ -1202,7 +1162,6 @@ gm.m-w. Piaski,świdnicki,918,81,698,1209,806,lubelskie,:,10467,2065,"19,73%",37
 gm.w. Garbatka-Letnisko,kozienicki,450,13,241,558,462,mazowieckie,:,5019,990,"19,73%",1724,gm.w. Garbatka-Letnisko,mazowieckie
 gm.m-w. Skoczów,cieszyński,2238,212,1735,3068,1976,śląskie,:,26788,5285,"19,73%",9229,gm.m-w. Skoczów,śląskie
 gm.w. Aleksandrów,piotrkowski,421,11,237,445,395,łódzkie,:,4279,844,"19,72%",1509,gm.w. Aleksandrów,lubeskie
-gm.w. Aleksandrów,piotrkowski,421,11,237,445,395,łódzkie,:,4279,844,"19,72%",1509,gm.w. Aleksandrów,łódzkie
 gm.m-w. Drezdenko,strzelecko-drezdenecki,1487,129,1027,1915,1444,lubuskie,:,17009,3353,"19,71%",6002,gm.m-w. Drezdenko,lubuskie
 gm.w. Darłowo,sławieński,440,67,561,1007,627,zachodniopomorskie,:,7965,1570,"19,71%",2702,gm.w. Darłowo,zachodniopomorskie
 gm.w. Przystajń,kłobucki,531,29,417,719,493,śląskie,:,5849,1152,"19,70%",2189,gm.w. Przystajń,śląskie
@@ -1236,7 +1195,6 @@ gm.w. Marklowice,wodzisławski,454,39,366,608,318,śląskie,:,5417,1062,"19,60%"
 gm.w. Żurawica,przemyski,798,89,781,1382,903,podkarpackie,:,12940,2535,"19,59%",3953,gm.w. Żurawica,podkarpackie
 gm.m-w. Maków Podhalański,suski,1218,112,1172,1835,1131,małopolskie,:,15952,3122,"19,57%",5468,gm.m-w. Maków Podhalański,małopolskie
 gm.m-w. Suraż,białostocki,174,4,105,196,120,podlaskie,:,1937,379,"19,57%",599,gm.m-w. Suraż,podlaskie
-gm.w. Radzanów,mławski,260,12,157,349,254,mazowieckie,:,3262,638,"19,56%",1032,gm.w. Radzanów,mazowieckie
 gm.w. Radzanów,mławski,260,12,157,349,254,mazowieckie,:,3262,638,"19,56%",1032,gm.w. Radzanów,mazowieckie
 gm.m-w. Mikstat,ostrzeszowski,412,18,333,585,400,wielkopolskie,:,5990,1171,"19,55%",1748,gm.m-w. Mikstat,wielkopolskie
 gm.w. Wierzbno,węgrowski,270,16,112,256,257,mazowieckie,:,2718,531,"19,54%",911,gm.w. Wierzbno,mazowieckie
@@ -1286,7 +1244,6 @@ gm.w. Wądroże Wielkie,jaworski,337,38,261,475,364,dolnośląskie,:,3888,752,"1
 gm.w. Tuczna,bialski,271,4,109,209,193,lubelskie,:,2958,572,"19,34%",786,gm.w. Tuczna,lubeskie
 gm.w. Trzcinica,kępiński,432,36,327,594,352,wielkopolskie,:,4934,954,"19,34%",1741,gm.w. Trzcinica,wielkopolskie
 gm.w. Rogowo,rypiński,367,16,306,470,425,kujawsko-pomorskie,:,4770,922,"19,33%",1584,gm.w. Rogowo,kujawsko-pomorskie
-gm.w. Rogowo,rypiński,367,16,306,470,425,kujawsko-pomorskie,:,4770,922,"19,33%",1584,gm.w. Rogowo,kujawsko-pomorskie
 gm.w. Łyszkowice,łowicki,517,41,413,766,504,łódzkie,:,6631,1282,"19,33%",2241,gm.w. Łyszkowice,łódzkie
 gm.w. Sabnie,sokołowski,305,3,164,292,323,mazowieckie,:,3574,691,"19,33%",1087,gm.w. Sabnie,mazowieckie
 gm.m-w. Zabłudów,białostocki,630,63,554,1041,640,podlaskie,:,9386,1814,"19,33%",2928,gm.m-w. Zabłudów,podlaskie
@@ -1326,8 +1283,6 @@ gm.m-w. Czarna Woda,starogardzki,293,12,180,324,294,pomorskie,:,3131,601,"19,20%
 gm.w. Waganiec,aleksandrowski,330,25,294,470,341,kujawsko-pomorskie,:,4564,876,"19,19%",1460,gm.w. Waganiec,kujawsko-pomorskie
 gm.w. Popielów,opolski,680,55,525,788,608,opolskie,:,7969,1529,"19,19%",2656,gm.w. Popielów,opolskie
 gm.w. Czarna,łańcucki,708,65,736,1180,693,podkarpackie,:,11902,2284,"19,19%",3382,gm.w. Czarna,podkarpackie
-gm.w. Czarna,łańcucki,708,65,736,1180,693,podkarpackie,:,11902,2284,"19,19%",3382,gm.w. Czarna,podkarpackie
-gm.w. Czarna,łańcucki,708,65,736,1180,693,podkarpackie,:,11902,2284,"19,19%",3382,gm.w. Czarna,podkarpackie
 gm.w. Wąpielsk,rypiński,279,19,211,354,294,kujawsko-pomorskie,:,3953,758,"19,18%",1157,gm.w. Wąpielsk,kujawsko-pomorskie
 gm.w. Nowy Kawęczyn,skierniewicki,283,17,261,410,265,łódzkie,:,3373,647,"19,18%",1236,gm.w. Nowy Kawęczyn,łódzkie
 gm.m-w. Kalwaria Zebrzydow,wadowicki,1425,145,1670,2528,1421,małopolskie,:,20022,3840,"19,18%",7189,,
@@ -1353,7 +1308,6 @@ gm.m-w. Sułkowice,myślenicki,845,163,1347,2044,1099,małopolskie,:,15061,2879,
 gm.w. Teresin,sochaczewski,929,123,1015,1588,968,mazowieckie,:,11542,2207,"19,12%",4623,gm.w. Teresin,mazowieckie
 gm.m-w. Mszczonów,żyrardowski,917,73,694,1335,872,mazowieckie,:,11440,2187,"19,12%",3891,gm.m-w. Mszczonów,mazowieckie
 gm.w. Lubrza,prudnicki,333,44,272,460,360,opolskie,:,4283,819,"19,12%",1469,gm.w. Lubrza,lubuskie
-gm.w. Lubrza,prudnicki,333,44,272,460,360,opolskie,:,4283,819,"19,12%",1469,gm.w. Lubrza,opolskie
 gm.m-w. Suchowola,sokólski,599,23,282,628,480,podlaskie,:,6765,1293,"19,11%",2012,gm.m-w. Suchowola,podlaskie
 gm.m-w. Pasłęk,elbląski,1538,124,1469,2213,1858,warmińsko-mazurskie,:,19205,3670,"19,11%",7202,gm.m-w. Pasłęk,warmińsko-mazurskie
 gm.w. Łubianka,toruński,442,57,671,1006,557,kujawsko-pomorskie,:,7438,1421,"19,10%",2733,gm.w. Łubianka,kujawsko-pomorskie
@@ -1361,8 +1315,6 @@ gm.w. Pokrzywnica,pułtuski,367,21,285,531,412,mazowieckie,:,5032,961,"19,10%",1
 gm.w. Gawłuszowice,mielecki,207,15,133,269,161,podkarpackie,:,2722,520,"19,10%",785,gm.w. Gawłuszowice,podkarpackie
 gm.w. Udanin,średzki,428,39,280,548,391,dolnośląskie,:,5014,957,"19,09%",1686,gm.w. Udanin,dolnośląskie
 gm.w. Baranów,puławski,352,20,197,364,264,lubelskie,:,3830,731,"19,09%",1197,gm.w. Baranów,lubeskie
-gm.w. Baranów,puławski,352,20,197,364,264,lubelskie,:,3830,731,"19,09%",1197,gm.w. Baranów,mazowieckie
-gm.w. Baranów,puławski,352,20,197,364,264,lubelskie,:,3830,731,"19,09%",1197,gm.w. Baranów,wielkopolskie
 gm.w. Fabianki,włocławski,568,112,716,1464,821,kujawsko-pomorskie,:,10178,1942,"19,08%",3681,gm.w. Fabianki,kujawsko-pomorskie
 gm.w. Pniewy,grójecki,396,43,317,603,378,mazowieckie,:,4788,913,"19,07%",1737,gm.w. Pniewy,mazowieckie
 gm.w. Młodzieszyn,sochaczewski,419,43,410,650,468,mazowieckie,:,5559,1060,"19,07%",1990,gm.w. Młodzieszyn,mazowieckie
@@ -1376,7 +1328,6 @@ gm.w. Białośliwie,pilski,350,32,245,464,397,wielkopolskie,:,4809,916,"19,05%",
 gm.w. Sułów,zamojski,383,10,165,359,341,lubelskie,:,4401,838,"19,04%",1258,gm.w. Sułów,lubeskie
 gm.m-w. Sulejów,piotrkowski,1237,105,1032,1911,1256,łódzkie,:,16308,3105,"19,04%",5541,gm.m-w. Sulejów,łódzkie
 gm.w. Olszanka,brzeski,388,23,336,545,401,opolskie,:,4874,928,"19,04%",1693,gm.w. Olszanka,mazowieckie
-gm.w. Olszanka,brzeski,388,23,336,545,401,opolskie,:,4874,928,"19,04%",1693,gm.w. Olszanka,opolskie
 gm.w. Miejsce Piastowe,krośnieński,979,61,749,1266,866,podkarpackie,:,13705,2609,"19,04%",3921,gm.w. Miejsce Piastowe,podkarpackie
 gm.w. Suszec,pszczyński,709,108,1073,1672,879,śląskie,:,12469,2374,"19,04%",4441,gm.w. Suszec,śląskie
 gm.m-w. Wąchock,starachowicki,650,45,377,741,552,świętokrzyskie,:,6739,1283,"19,04%",2365,gm.m-w. Wąchock,świętokrzyskie
@@ -1404,7 +1355,6 @@ gm.w. Dalików,poddębicki,309,21,244,419,315,łódzkie,:,3920,740,"18,88%",1308
 gm.m-w. Ćmielów,ostrowiecki,667,43,332,795,596,świętokrzyskie,:,7284,1375,"18,88%",2433,gm.m-w. Ćmielów,świętokrzyskie
 gm.m-w. Miłakowo,ostródzki,383,22,278,518,453,warmińsko-mazurskie,:,5372,1014,"18,88%",1654,gm.m-w. Miłakowo,warmińsko-mazurskie
 gm.w. Bolesławiec,wieruszowski,326,26,273,428,316,łódzkie,:,4075,769,"18,87%",1369,gm.w. Bolesławiec,dolnośląskie
-gm.w. Bolesławiec,wieruszowski,326,26,273,428,316,łódzkie,:,4075,769,"18,87%",1369,gm.w. Bolesławiec,łódzkie
 gm.w. Czeremcha,hajnowski,335,9,103,249,263,podlaskie,:,3064,578,"18,86%",959,gm.w. Czeremcha,podlaskie
 gm.w. Rząśnik,wyszkowski,485,19,403,778,484,mazowieckie,:,6987,1316,"18,84%",2169,gm.w. Rząśnik,mazowieckie
 gm.m-w. Wyrzysk,pilski,1015,59,733,1323,1205,wielkopolskie,:,13835,2606,"18,84%",4335,gm.m-w. Wyrzysk,wielkopolskie
@@ -1422,11 +1372,9 @@ gm.w. Werbkowice,hrubieszowski,883,37,442,822,716,lubelskie,:,9121,1715,"18,80%"
 gm.w. Maków,skierniewicki,482,46,451,723,410,łódzkie,:,6005,1129,"18,80%",2112,gm.w. Maków,łódzkie
 gm.w. Łubowo,gnieźnieński,427,67,531,953,518,wielkopolskie,:,6783,1275,"18,80%",2496,gm.w. Łubowo,wielkopolskie
 gm.w. Lipno,leszczyński,452,65,707,1139,541,wielkopolskie,:,8658,1628,"18,80%",2904,gm.w. Lipno,kujawsko-pomorskie
-gm.w. Lipno,leszczyński,452,65,707,1139,541,wielkopolskie,:,8658,1628,"18,80%",2904,gm.w. Lipno,wielkopolskie
 gm.w. Malechowo,sławieński,431,46,401,706,516,zachodniopomorskie,:,6201,1166,"18,80%",2100,gm.w. Malechowo,zachodniopomorskie
 gm.w. Solec nad Wisłą,lipski,477,14,195,365,384,mazowieckie,:,4791,900,"18,79%",1435,,
 gm.w. Wierzbica,radomski,636,47,445,961,739,mazowieckie,:,9608,1805,"18,79%",2828,gm.w. Wierzbica,lubeskie
-gm.w. Wierzbica,radomski,636,47,445,961,739,mazowieckie,:,9608,1805,"18,79%",2828,gm.w. Wierzbica,mazowieckie
 gm.w. Somianka,wyszkowski,479,21,326,635,418,mazowieckie,:,5626,1057,"18,79%",1879,gm.w. Somianka,mazowieckie
 gm.m-w. Rogoźno,obornicki,1303,179,1430,2156,1598,wielkopolskie,:,18372,3452,"18,79%",6666,gm.m-w. Rogoźno,wielkopolskie
 gm.w. Jabłoń,parczewski,317,24,184,365,282,lubelskie,:,3828,719,"18,78%",1172,gm.w. Jabłoń,lubeskie
@@ -1494,7 +1442,6 @@ gm.w. Mała Wieś,płocki,498,12,326,679,439,mazowieckie,:,5913,1096,"18,54%",19
 m. Grajewo,grajewski,1489,80,961,1864,1599,podlaskie,:,21709,4022,"18,53%",5993,m. Grajewo,podlaskie
 gm.m-w. Skoki,wągrowiecki,581,65,783,1201,842,wielkopolskie,:,9822,1820,"18,53%",3472,gm.m-w. Skoki,wielkopolskie
 gm.w. Gorzyce,tarnobrzeski,841,46,679,1120,1001,podkarpackie,:,13050,2417,"18,52%",3687,gm.w. Gorzyce,podkarpackie
-gm.w. Gorzyce,tarnobrzeski,841,46,679,1120,1001,podkarpackie,:,13050,2417,"18,52%",3687,gm.w. Gorzyce,śląskie
 gm.w. Mszana,wodzisławski,577,59,582,917,578,śląskie,:,7684,1423,"18,52%",2713,gm.w. Mszana,śląskie
 gm.m-w. Tychowo,białogardzki,461,29,349,554,593,zachodniopomorskie,:,6718,1244,"18,52%",1986,gm.m-w. Tychowo,zachodniopomorskie
 gm.w. Pęcław,głogowski,138,14,121,216,208,dolnośląskie,:,2210,409,"18,51%",697,gm.w. Pęcław,dolnośląskie
@@ -1509,26 +1456,21 @@ gm.w. Górzyca,słubicki,280,23,263,527,344,lubuskie,:,4289,793,"18,49%",1437,gm
 gm.w. Grodzisk,siemiatycki,444,14,149,326,240,podlaskie,:,4134,764,"18,48%",1173,gm.w. Grodzisk,podlaskie
 gm.w. Rościszewo,sierpecki,322,9,195,476,290,mazowieckie,:,4098,757,"18,47%",1292,gm.w. Rościszewo,mazowieckie
 gm.w. Wierzbica,chełmski,368,26,256,476,380,lubelskie,:,5000,923,"18,46%",1506,gm.w. Wierzbica,lubeskie
-gm.w. Wierzbica,chełmski,368,26,256,476,380,lubelskie,:,5000,923,"18,46%",1506,gm.w. Wierzbica,mazowieckie
 gm.w. Tuplice,żarski,263,20,209,373,312,lubuskie,:,3022,558,"18,46%",1177,gm.w. Tuplice,lubuskie
 gm.w. Tczew,tczewski,678,130,1282,2010,966,pomorskie,:,15335,2831,"18,46%",5066,gm.w. Tczew,pomorskie
 gm.m-w. Wiązów,strzeliński,529,49,483,878,615,dolnośląskie,:,7041,1299,"18,45%",2554,gm.m-w. Wiązów,dolnośląskie
 gm.w. Rusinów,przysuski,362,13,200,496,319,mazowieckie,:,4232,781,"18,45%",1390,gm.w. Rusinów,mazowieckie
 gm.w. Lubiewo,tucholski,439,48,395,677,448,kujawsko-pomorskie,:,6008,1108,"18,44%",2007,gm.w. Lubiewo,kujawsko-pomorskie
 gm.w. Janów,częstochowski,428,28,338,624,479,śląskie,:,5958,1098,"18,43%",1897,gm.w. Janów,podlaskie
-gm.w. Janów,częstochowski,428,28,338,624,479,śląskie,:,5958,1098,"18,43%",1897,gm.w. Janów,śląskie
 gm.w. Oksa,jędrzejowski,445,24,263,526,420,świętokrzyskie,:,4533,835,"18,42%",1678,gm.w. Oksa,świętokrzyskie
 gm.w. Fałków,konecki,470,11,198,354,360,świętokrzyskie,:,4328,797,"18,42%",1393,gm.w. Fałków,świętokrzyskie
 gm.w. Baranów,kępiński,521,67,695,1021,594,wielkopolskie,:,8020,1477,"18,42%",2898,gm.w. Baranów,lubeskie
-gm.w. Baranów,kępiński,521,67,695,1021,594,wielkopolskie,:,8020,1477,"18,42%",2898,gm.w. Baranów,mazowieckie
-gm.w. Baranów,kępiński,521,67,695,1021,594,wielkopolskie,:,8020,1477,"18,42%",2898,gm.w. Baranów,wielkopolskie
 gm.m-w. Radków,kłodzki,680,39,492,838,779,dolnośląskie,:,8968,1651,"18,41%",2828,gm.m-w. Radków,dolnośląskie
 gm.w. Łaskarzew,garwoliński,301,37,375,591,368,mazowieckie,:,5447,1003,"18,41%",1672,gm.w. Łaskarzew,mazowieckie
 gm.w. Bejsce,kazimierski,302,11,228,383,263,świętokrzyskie,:,3982,733,"18,41%",1187,gm.w. Bejsce,świętokrzyskie
 gm.w. Konstantynów,bialski,274,12,245,412,313,lubelskie,:,4060,747,"18,40%",1256,gm.w. Konstantynów,lubeskie
 gm.w. Góra Świętej Małgorz,łęczycki,390,10,234,482,283,łódzkie,:,4336,798,"18,40%",1399,,
 gm.w. Gorzyce,wodzisławski,1570,196,1393,2299,1449,śląskie,:,21370,3932,"18,40%",6908,gm.w. Gorzyce,podkarpackie
-gm.w. Gorzyce,wodzisławski,1570,196,1393,2299,1449,śląskie,:,21370,3932,"18,40%",6908,gm.w. Gorzyce,śląskie
 gm.w. Pakosław,rawicki,348,19,279,426,375,wielkopolskie,:,4902,902,"18,40%",1447,gm.w. Pakosław,wielkopolskie
 gm.w. Skrwilno,rypiński,508,27,291,550,446,kujawsko-pomorskie,:,5851,1076,"18,39%",1822,gm.w. Skrwilno,kujawsko-pomorskie
 gm.w. Krościenko Wyżne,krośnieński,335,29,292,569,347,podkarpackie,:,5601,1030,"18,39%",1572,gm.w. Krościenko Wyżne,podkarpackie
@@ -1569,13 +1511,10 @@ gm.w. Parchowo,bytowski,248,23,246,453,281,pomorskie,:,3842,700,"18,22%",1251,gm
 gm.w. Hażlach,cieszyński,688,105,844,1413,850,śląskie,:,10919,1989,"18,22%",3900,gm.w. Hażlach,śląskie
 gm.w. Budry,węgorzewski,239,13,170,318,228,warmińsko-mazurskie,:,2760,503,"18,22%",968,gm.w. Budry,warmińsko-mazurskie
 gm.w. Słupia,skierniewicki,245,16,144,192,199,łódzkie,:,2609,475,"18,21%",796,gm.w. Słupia,łódzkie
-gm.w. Słupia,skierniewicki,245,16,144,192,199,łódzkie,:,2609,475,"18,21%",796,gm.w. Słupia,świętokrzyskie
 gm.w. Odrzywół,przysuski,333,8,204,283,269,mazowieckie,:,3695,673,"18,21%",1097,gm.w. Odrzywół,mazowieckie
 gm.w. Chybie,cieszyński,728,75,694,1235,866,śląskie,:,9832,1790,"18,21%",3598,gm.w. Chybie,śląskie
 gm.w. Lubasz,czarnkowsko-trzcianecki,554,47,636,1098,548,wielkopolskie,:,7686,1400,"18,21%",2883,gm.w. Lubasz,wielkopolskie
 gm.w. Osiek,brodnicki,288,23,214,407,276,kujawsko-pomorskie,:,4022,732,"18,20%",1208,gm.w. Osiek,kujawsko-pomorskie
-gm.w. Osiek,brodnicki,288,23,214,407,276,kujawsko-pomorskie,:,4022,732,"18,20%",1208,gm.w. Osiek,małopolskie
-gm.w. Osiek,brodnicki,288,23,214,407,276,kujawsko-pomorskie,:,4022,732,"18,20%",1208,gm.w. Osiek,pomorskie
 gm.m-w. Świerzawa,złotoryjski,600,39,400,714,692,dolnośląskie,:,7484,1361,"18,19%",2445,gm.m-w. Świerzawa,dolnośląskie
 gm.w. Strzegowo,mławski,572,28,384,684,558,mazowieckie,:,7415,1349,"18,19%",2226,gm.w. Strzegowo,mazowieckie
 gm.w. Sieradz,sieradzki,703,55,763,1307,757,łódzkie,:,10801,1964,"18,18%",3585,gm.w. Sieradz,łódzkie
@@ -1590,14 +1529,12 @@ gm.w. Kiwity,lidzbarski,228,24,195,319,240,warmińsko-mazurskie,:,3252,590,"18,1
 gm.w. Drawsko,czarnkowsko-trzcianecki,457,25,340,621,488,wielkopolskie,:,5765,1046,"18,14%",1931,gm.w. Drawsko,wielkopolskie
 gm.m-w. Wschowa,wschowski,1733,136,1315,2258,1763,lubuskie,:,20955,3800,"18,13%",7205,gm.m-w. Wschowa,lubuskie
 gm.w. Brzeźnica,wadowicki,669,68,818,1178,673,małopolskie,:,10521,1907,"18,13%",3406,gm.w. Brzeźnica,lubuskie
-gm.w. Brzeźnica,wadowicki,669,68,818,1178,673,małopolskie,:,10521,1907,"18,13%",3406,gm.w. Brzeźnica,małopolskie
 gm.m-w. Lesko,leski,845,73,480,1089,766,podkarpackie,:,11262,2042,"18,13%",3253,gm.m-w. Lesko,podkarpackie
 gm.w. Suchy Dąb,gdański,219,29,329,538,286,pomorskie,:,4248,770,"18,13%",1401,gm.w. Suchy Dąb,pomorskie
 gm.w. Ujazd,tomaszowski,566,41,451,725,556,łódzkie,:,7706,1396,"18,12%",2339,gm.w. Ujazd,łódzkie
 gm.w. Skomlin,wieluński,243,23,202,383,270,łódzkie,:,3267,592,"18,12%",1121,gm.w. Skomlin,łódzkie
 gm.w. Miastków Kościelny,garwoliński,405,34,283,535,364,mazowieckie,:,4835,876,"18,12%",1621,gm.w. Miastków Kościelny,mazowieckie
 gm.w. Kolno,olsztyński,217,12,139,359,270,warmińsko-mazurskie,:,3085,559,"18,12%",997,gm.w. Kolno,podlaskie
-gm.w. Kolno,olsztyński,217,12,139,359,270,warmińsko-mazurskie,:,3085,559,"18,12%",997,gm.w. Kolno,warmińsko-mazurskie
 gm.w. Bieliny,kielecki,586,56,690,1119,733,świętokrzyskie,:,10260,1857,"18,10%",3184,gm.w. Bieliny,świętokrzyskie
 gm.w. Chojnów,legnicki,649,53,546,1069,776,dolnośląskie,:,9517,1722,"18,09%",3093,gm.w. Chojnów,dolnośląskie
 gm.w. Papowo Biskupie,chełmiński,322,19,219,423,320,kujawsko-pomorskie,:,4300,778,"18,09%",1303,gm.w. Papowo Biskupie,kujawsko-pomorskie
@@ -1649,7 +1586,6 @@ gm.m-w. Pasym,szczycieński,355,25,275,547,443,warmińsko-mazurskie,:,5294,952,"
 gm.w. Dźwierzuty,szczycieński,473,23,327,691,545,warmińsko-mazurskie,:,6463,1161,"17,96%",2059,gm.w. Dźwierzuty,warmińsko-mazurskie
 gm.m-w. Błaszki,sieradzki,1243,61,758,1525,1063,łódzkie,:,14373,2580,"17,95%",4650,gm.m-w. Błaszki,łódzkie
 gm.w. Olszanka,łosicki,233,10,132,257,234,mazowieckie,:,2914,523,"17,95%",866,gm.w. Olszanka,mazowieckie
-gm.w. Olszanka,łosicki,233,10,132,257,234,mazowieckie,:,2914,523,"17,95%",866,gm.w. Olszanka,opolskie
 gm.m-w. Kolbuszowa,kolbuszowski,1485,111,1237,1967,1343,podkarpackie,:,24638,4422,"17,95%",6143,gm.m-w. Kolbuszowa,podkarpackie
 gm.w. Lipusz,kościerski,219,23,220,449,254,pomorskie,:,3772,677,"17,95%",1165,gm.w. Lipusz,pomorskie
 gm.w. Bliżyn,skarżyski,659,24,412,769,591,świętokrzyskie,:,7995,1435,"17,95%",2455,gm.w. Bliżyn,świętokrzyskie
@@ -1669,7 +1605,6 @@ gm.w. Skołyszyn,jasielski,845,59,547,1038,767,podkarpackie,:,12518,2240,"17,89%
 gm.w. Duszniki,szamotulski,614,77,743,1165,708,wielkopolskie,:,9179,1642,"17,89%",3307,gm.w. Duszniki,wielkopolskie
 gm.w. Wieniawa,przysuski,426,13,222,528,405,mazowieckie,:,5256,940,"17,88%",1594,gm.w. Wieniawa,mazowieckie
 gm.w. Rudnik,raciborski,374,42,279,474,263,śląskie,:,5150,921,"17,88%",1432,gm.w. Rudnik,lubeskie
-gm.w. Rudnik,raciborski,374,42,279,474,263,śląskie,:,5150,921,"17,88%",1432,gm.w. Rudnik,śląskie
 gm.w. Radomsko,radomszczański,390,40,314,613,349,łódzkie,:,5546,991,"17,87%",1706,gm.w. Radomsko,łódzkie
 gm.m-w. Górzno,brodnicki,256,14,238,452,312,kujawsko-pomorskie,:,3931,702,"17,86%",1272,gm.m-w. Górzno,kujawsko-pomorskie
 gm.w. Dubiecko,przemyski,632,45,437,827,491,podkarpackie,:,9139,1632,"17,86%",2432,,
@@ -1680,7 +1615,6 @@ gm.m-w. Biała Rawska,rawski,899,52,532,933,784,łódzkie,:,11239,2005,"17,84%",
 gm.m-w. Tłuszcz,wołomiński,1197,123,1470,2585,1472,mazowieckie,:,20104,3585,"17,83%",6847,gm.m-w. Tłuszcz,mazowieckie
 gm.w. Wojciechowice,opatowski,316,20,200,354,307,świętokrzyskie,:,3988,711,"17,83%",1197,gm.w. Wojciechowice,świętokrzyskie
 gm.m-w. Dobra,łobeski,357,12,179,382,363,zachodniopomorskie,:,4353,776,"17,83%",1293,gm.m-w. Dobra,wielkopolskie
-gm.m-w. Dobra,łobeski,357,12,179,382,363,zachodniopomorskie,:,4353,776,"17,83%",1293,gm.m-w. Dobra,zachodniopomorskie
 gm.w. Nowe Piekuty,wysokomazowiecki,332,20,172,288,237,podlaskie,:,3816,680,"17,82%",1049,gm.w. Nowe Piekuty,podlaskie
 gm.w. Dubeninki,gołdapski,270,18,136,285,222,warmińsko-mazurskie,:,2857,509,"17,82%",931,gm.w. Dubeninki,warmińsko-mazurskie
 gm.m-w. Trzcińsko-Zdrój,gryfiński,441,25,283,522,415,zachodniopomorskie,:,5174,922,"17,82%",1686,gm.m-w. Trzcińsko-Zdrój,zachodniopomorskie
@@ -1688,7 +1622,6 @@ gm.m-w. Przedbórz,radomszczański,560,30,381,637,546,łódzkie,:,7052,1256,"17,
 gm.w. Wiskitki,żyrardowski,677,55,564,1191,772,mazowieckie,:,9853,1755,"17,81%",3259,,
 gm.m-w. Ostrów Lubelski,lubartowski,354,20,250,443,370,lubelskie,:,5226,930,"17,80%",1437,gm.m-w. Ostrów Lubelski,lubeskie
 gm.w. Jabłonna,lubelski,500,44,453,915,523,lubelskie,:,8107,1443,"17,80%",2435,gm.w. Jabłonna,lubeskie
-gm.w. Jabłonna,lubelski,500,44,453,915,523,lubelskie,:,8107,1443,"17,80%",2435,gm.w. Jabłonna,mazowieckie
 gm.w. Krzyżanów,kutnowski,350,30,303,522,360,łódzkie,:,4202,748,"17,80%",1565,gm.w. Krzyżanów,łódzkie
 gm.w. Milejczyce,siemiatycki,201,4,39,100,100,podlaskie,:,1702,303,"17,80%",444,gm.w. Milejczyce,podlaskie
 gm.m-w. Człopa,wałecki,405,27,295,509,435,zachodniopomorskie,:,4871,867,"17,80%",1671,gm.m-w. Człopa,zachodniopomorskie
@@ -1730,7 +1663,6 @@ gm.w. Nowa Ruda,kłodzki,855,74,718,1272,1005,dolnośląskie,:,11440,2024,"17,69
 gm.m-w. Szczebrzeszyn,zamojski,864,36,522,940,852,lubelskie,:,11083,1961,"17,69%",3214,gm.m-w. Szczebrzeszyn,lubeskie
 gm.m-w. Cybinka,słubicki,438,66,467,829,541,lubuskie,:,6474,1145,"17,69%",2341,gm.m-w. Cybinka,lubuskie
 gm.w. Brody,żarski,224,42,222,369,293,lubuskie,:,3364,595,"17,69%",1150,gm.w. Brody,lubuskie
-gm.w. Brody,żarski,224,42,222,369,293,lubuskie,:,3364,595,"17,69%",1150,gm.w. Brody,świętokrzyskie
 gm.m-w. Lubowidz,żuromiński,584,19,393,672,520,mazowieckie,:,6796,1202,"17,69%",2188,gm.m-w. Lubowidz,mazowieckie
 gm.m-w. Warta,sieradzki,1008,48,636,1257,921,łódzkie,:,12510,2210,"17,67%",3870,gm.m-w. Warta,łódzkie
 gm.w. Ciechanów,ciechanowski,405,58,578,971,480,mazowieckie,:,7159,1265,"17,67%",2492,gm.w. Ciechanów,mazowieckie
@@ -1776,7 +1708,6 @@ gm.w. Bielsk Podlaski,bielski,717,19,200,457,352,podlaskie,:,6501,1138,"17,51%",
 gm.w. Sitno,zamojski,440,28,301,571,499,lubelskie,:,6719,1176,"17,50%",1839,gm.w. Sitno,lubeskie
 gm.w. Bartoszyce,bartoszycki,655,87,779,1354,842,warmińsko-mazurskie,:,10630,1860,"17,50%",3717,gm.w. Bartoszyce,warmińsko-mazurskie
 gm.w. Moszczenica,piotrkowski,981,102,854,1487,986,łódzkie,:,12917,2259,"17,49%",4410,gm.w. Moszczenica,łódzkie
-gm.w. Moszczenica,piotrkowski,981,102,854,1487,986,łódzkie,:,12917,2259,"17,49%",4410,gm.w. Moszczenica,małopolskie
 gm.w. Stoczek,węgrowski,391,14,208,425,375,mazowieckie,:,4923,861,"17,49%",1413,gm.w. Stoczek,mazowieckie
 gm.m-w. Czaplinek,drawski,938,55,631,1223,1067,zachodniopomorskie,:,11740,2053,"17,49%",3914,gm.m-w. Czaplinek,zachodniopomorskie
 gm.m-w. Tuczno,wałecki,416,18,241,449,381,zachodniopomorskie,:,4871,852,"17,49%",1505,gm.m-w. Tuczno,zachodniopomorskie
@@ -1799,19 +1730,16 @@ gm.w. Władysławów,turecki,513,34,487,851,570,wielkopolskie,:,8088,1408,"17,41
 gm.w. Tuczępy,buski,342,23,216,354,211,świętokrzyskie,:,3690,642,"17,40%",1146,gm.w. Tuczępy,świętokrzyskie
 gm.w. Baćkowice,opatowski,355,16,226,447,327,świętokrzyskie,:,4837,841,"17,39%",1371,gm.w. Baćkowice,świętokrzyskie
 gm.w. Świętajno,szczycieński,456,29,346,652,548,warmińsko-mazurskie,:,5723,995,"17,39%",2031,gm.w. Świętajno,warmińsko-mazurskie
-gm.w. Świętajno,szczycieński,456,29,346,652,548,warmińsko-mazurskie,:,5723,995,"17,39%",2031,gm.w. Świętajno,warmińsko-mazurskie
 gm.m-w. Klimontów,sandomierski,661,40,457,780,527,świętokrzyskie,:,7987,1388,"17,38%",2465,gm.m-w. Klimontów,świętokrzyskie
 gm.m-w. Ryn,giżycki,438,39,334,638,561,warmińsko-mazurskie,:,5640,980,"17,38%",2010,gm.m-w. Ryn,warmińsko-mazurskie
 gm.w. Stare Pole,malborski,297,26,286,433,364,pomorskie,:,4706,817,"17,36%",1406,gm.w. Stare Pole,pomorskie
 gm.w. Kraszewice,ostrzeszowski,280,13,209,351,250,wielkopolskie,:,3640,632,"17,36%",1103,gm.w. Kraszewice,wielkopolskie
-gm.w. Rogowo,żniński,533,24,412,658,620,kujawsko-pomorskie,:,6802,1180,"17,35%",2247,gm.w. Rogowo,kujawsko-pomorskie
 gm.w. Rogowo,żniński,533,24,412,658,620,kujawsko-pomorskie,:,6802,1180,"17,35%",2247,gm.w. Rogowo,kujawsko-pomorskie
 gm.w. Izbicko,strzelecki,402,36,400,513,368,opolskie,:,5413,939,"17,35%",1719,gm.w. Izbicko,opolskie
 gm.w. Drwinia,bocheński,480,23,386,652,445,małopolskie,:,6494,1126,"17,34%",1986,gm.w. Drwinia,małopolskie
 gm.m-w. Kępice,słupski,648,47,476,865,744,pomorskie,:,8941,1550,"17,34%",2780,gm.m-w. Kępice,pomorskie
 gm.m-w. Kuźnia Raciborska,raciborski,830,111,716,1180,813,śląskie,:,11641,2019,"17,34%",3650,gm.m-w. Kuźnia Raciborska,śląskie
 gm.w. Sławno,sławieński,471,87,534,885,642,zachodniopomorskie,:,8833,1532,"17,34%",2619,gm.w. Sławno,łódzkie
-gm.w. Sławno,sławieński,471,87,534,885,642,zachodniopomorskie,:,8833,1532,"17,34%",2619,gm.w. Sławno,zachodniopomorskie
 gm.w. Stara Kiszewa,kościerski,419,26,379,683,503,pomorskie,:,6826,1183,"17,33%",2010,gm.w. Stara Kiszewa,pomorskie
 gm.w. Szczytno,szczycieński,639,77,830,1680,931,warmińsko-mazurskie,:,13232,2292,"17,32%",4157,gm.w. Szczytno,warmińsko-mazurskie
 gm.m-w. Odolanów,ostrowski,960,73,809,1535,1032,wielkopolskie,:,14674,2540,"17,31%",4409,gm.m-w. Odolanów,wielkopolskie
@@ -1819,14 +1747,12 @@ gm.w. Tomaszów Lubelski,tomaszowski,671,65,586,1189,740,lubelskie,:,11292,1954,
 gm.w. Bierawa,kędzierzyńsko-kozielski,569,57,498,737,505,opolskie,:,7895,1366,"17,30%",2366,gm.w. Bierawa,opolskie
 gm.m-w. Szydłów,staszowski,385,25,289,381,373,świętokrzyskie,:,4590,794,"17,30%",1453,gm.m-w. Szydłów,świętokrzyskie
 gm.w. Brodnica,brodnicki,363,80,694,1168,530,kujawsko-pomorskie,:,8662,1498,"17,29%",2835,gm.w. Brodnica,kujawsko-pomorskie
-gm.w. Brodnica,brodnicki,363,80,694,1168,530,kujawsko-pomorskie,:,8662,1498,"17,29%",2835,gm.w. Brodnica,wielkopolskie
 gm.w. Garwolin,garwoliński,763,131,1006,1569,829,mazowieckie,:,13371,2312,"17,29%",4298,gm.w. Garwolin,mazowieckie
 gm.m-w. Osieczna,leszczyński,684,53,643,1091,644,wielkopolskie,:,9314,1610,"17,29%",3115,gm.m-w. Osieczna,wielkopolskie
 gm.w. Łęka Opatowska,kępiński,331,39,384,589,387,wielkopolskie,:,5329,921,"17,28%",1730,gm.w. Łęka Opatowska,wielkopolskie
 gm.w. Święciechowa,leszczyński,482,68,626,873,572,wielkopolskie,:,8214,1419,"17,28%",2621,gm.w. Święciechowa,wielkopolskie
 gm.w. Sośnie,ostrowski,430,18,359,627,387,wielkopolskie,:,6563,1134,"17,28%",1821,gm.w. Sośnie,wielkopolskie
 gm.w. Janów,sokólski,320,8,210,331,278,podlaskie,:,4002,691,"17,27%",1147,gm.w. Janów,podlaskie
-gm.w. Janów,sokólski,320,8,210,331,278,podlaskie,:,4002,691,"17,27%",1147,gm.w. Janów,śląskie
 gm.m-w. Kobylin,krotoszyński,626,42,411,723,617,wielkopolskie,:,8049,1390,"17,27%",2419,gm.m-w. Kobylin,wielkopolskie
 gm.m-w. Sława,wschowski,930,63,649,1294,1033,lubuskie,:,12639,2182,"17,26%",3969,gm.m-w. Sława,lubuskie
 gm.w. Szczurowa,brzeski,654,32,371,817,651,małopolskie,:,9407,1624,"17,26%",2525,gm.w. Szczurowa,małopolskie
@@ -1836,7 +1762,6 @@ gm.m-w. Dzierzgoń,sztumski,574,57,587,960,776,pomorskie,:,9210,1590,"17,26%",29
 gm.m-w. Orzysz,piski,699,28,574,918,659,warmińsko-mazurskie,:,8830,1524,"17,26%",2878,gm.m-w. Orzysz,warmińsko-mazurskie
 gm.w. Słupca,słupecki,644,62,631,1172,651,wielkopolskie,:,9313,1607,"17,26%",3160,gm.w. Słupca,wielkopolskie
 gm.w. Brodnica,śremski,291,35,379,581,354,wielkopolskie,:,4902,846,"17,26%",1640,gm.w. Brodnica,kujawsko-pomorskie
-gm.w. Brodnica,śremski,291,35,379,581,354,wielkopolskie,:,4902,846,"17,26%",1640,gm.w. Brodnica,wielkopolskie
 gm.w. Elbląg,elbląski,395,46,458,886,615,warmińsko-mazurskie,:,7593,1310,"17,25%",2400,gm.w. Elbląg,warmińsko-mazurskie
 gm.m-w. Miłosław,wrzesiński,844,65,636,1245,917,wielkopolskie,:,10144,1750,"17,25%",3707,gm.m-w. Miłosław,wielkopolskie
 gm.w. Kaliska,starogardzki,323,16,296,549,402,pomorskie,:,5436,937,"17,24%",1586,gm.w. Kaliska,pomorskie
@@ -1844,7 +1769,6 @@ gm.w. Sochaczew,sochaczewski,618,92,870,1508,796,mazowieckie,:,11148,1921,"17,23
 gm.w. Węgierska Górka,żywiecki,1041,52,938,1438,1055,śląskie,:,15040,2592,"17,23%",4524,gm.w. Węgierska Górka,śląskie
 gm.m-w. Jabłonowo Pomorski,brodnicki,608,33,393,825,614,kujawsko-pomorskie,:,8845,1522,"17,21%",2473,,
 gm.w. Brzeziny,brzeziński,382,33,336,633,371,łódzkie,:,5853,1007,"17,20%",1755,gm.w. Brzeziny,łódzkie
-gm.w. Brzeziny,brzeziński,382,33,336,633,371,łódzkie,:,5853,1007,"17,20%",1755,gm.w. Brzeziny,wielkopolskie
 gm.w. Paprotnia,siedlecki,210,5,88,214,165,mazowieckie,:,2501,430,"17,19%",682,gm.w. Paprotnia,mazowieckie
 gm.w. Tuszów Narodowy,mielecki,486,49,421,775,416,podkarpackie,:,8254,1417,"17,17%",2147,gm.w. Tuszów Narodowy,podkarpackie
 gm.w. Brenna,cieszyński,807,76,662,1067,815,śląskie,:,11373,1953,"17,17%",3427,gm.w. Brenna,śląskie
@@ -1856,7 +1780,6 @@ gm.w. Mieścisko,wągrowiecki,396,33,382,691,461,wielkopolskie,:,5909,1013,"17,1
 gm.w. Trawniki,świdnicki,699,30,359,780,611,lubelskie,:,8833,1513,"17,13%",2479,gm.w. Trawniki,lubeskie
 gm.w. Kluki,bełchatowski,264,16,199,440,284,łódzkie,:,4418,757,"17,13%",1203,gm.w. Kluki,łódzkie
 gm.w. Bolesławiec,bolesławiecki,829,92,993,1730,1057,dolnośląskie,:,14863,2545,"17,12%",4701,gm.w. Bolesławiec,dolnośląskie
-gm.w. Bolesławiec,bolesławiecki,829,92,993,1730,1057,dolnośląskie,:,14863,2545,"17,12%",4701,gm.w. Bolesławiec,łódzkie
 gm.m-w. Ustrzyki Dolne,bieszczadzki,1133,70,845,1512,1222,podkarpackie,:,17074,2921,"17,11%",4782,gm.m-w. Ustrzyki Dolne,podkarpackie
 gm.m-w. Sędziszów Małopols,ropczycko-sędziszowski,1536,132,1260,2021,1204,podkarpackie,:,23865,4083,"17,11%",6153,,
 gm.w. Jedlnia-Letnisko,radomski,777,106,784,1334,870,mazowieckie,:,12882,2203,"17,10%",3871,gm.w. Jedlnia-Letnisko,mazowieckie
@@ -1869,8 +1792,6 @@ gm.m-w. Dukla,krośnieński,952,74,669,1228,951,podkarpackie,:,14476,2474,"17,09
 gm.w. Kwilcz,międzychodzki,468,25,478,685,562,wielkopolskie,:,6377,1089,"17,08%",2218,gm.w. Kwilcz,wielkopolskie
 gm.m-w. Kcynia,nakielski,997,113,927,1558,1112,kujawsko-pomorskie,:,13204,2254,"17,07%",4707,gm.m-w. Kcynia,kujawsko-pomorskie
 gm.w. Poświętne,białostocki,264,12,130,273,233,podlaskie,:,3340,570,"17,07%",912,gm.w. Poświętne,łódzkie
-gm.w. Poświętne,białostocki,264,12,130,273,233,podlaskie,:,3340,570,"17,07%",912,gm.w. Poświętne,mazowieckie
-gm.w. Poświętne,białostocki,264,12,130,273,233,podlaskie,:,3340,570,"17,07%",912,gm.w. Poświętne,podlaskie
 gm.w. Dzierzgowo,mławski,268,14,158,315,230,mazowieckie,:,3039,518,"17,05%",985,gm.w. Dzierzgowo,mazowieckie
 gm.w. Wieliczki,olecki,194,17,147,285,248,warmińsko-mazurskie,:,3197,545,"17,05%",891,gm.w. Wieliczki,warmińsko-mazurskie
 gm.m-w. Wysoka,pilski,426,33,296,459,571,wielkopolskie,:,6521,1112,"17,05%",1785,gm.m-w. Wysoka,wielkopolskie
@@ -1892,11 +1813,9 @@ gm.w. Lubiszyn,gorzowski,425,57,463,840,574,lubuskie,:,6924,1175,"16,97%",2359,g
 gm.w. Sośno,sępoleński,364,31,290,473,396,kujawsko-pomorskie,:,4922,835,"16,96%",1554,gm.w. Sośno,kujawsko-pomorskie
 gm.w. Skarżysko Kościelne,skarżyski,468,30,335,578,449,świętokrzyskie,:,5951,1009,"16,96%",1860,gm.w. Skarżysko Kościelne,świętokrzyskie
 gm.w. Radzanów,białobrzeski,294,17,219,385,236,mazowieckie,:,3883,658,"16,95%",1151,gm.w. Radzanów,mazowieckie
-gm.w. Radzanów,białobrzeski,294,17,219,385,236,mazowieckie,:,3883,658,"16,95%",1151,gm.w. Radzanów,mazowieckie
 gm.w. Tuchomie,bytowski,223,26,236,416,308,pomorskie,:,4312,731,"16,95%",1209,gm.w. Tuchomie,pomorskie
 gm.w. Włocławek,włocławski,461,60,516,978,558,kujawsko-pomorskie,:,7365,1247,"16,93%",2573,gm.w. Włocławek,kujawsko-pomorskie
 gm.m-w. Daleszyce,kielecki,881,107,1106,1885,1103,świętokrzyskie,:,15828,2680,"16,93%",5082,gm.m-w. Daleszyce,świętokrzyskie
-gm.w. Adamów,zamojski,368,16,219,459,319,lubelskie,:,4597,778,"16,92%",1381,gm.w. Adamów,lubeskie
 gm.w. Adamów,zamojski,368,16,219,459,319,lubelskie,:,4597,778,"16,92%",1381,gm.w. Adamów,lubeskie
 gm.w. Buczek,łaski,396,25,287,471,399,łódzkie,:,5095,862,"16,92%",1578,gm.w. Buczek,łódzkie
 gm.w. Małkinia Górna,ostrowski,837,72,680,1181,1006,mazowieckie,:,11546,1954,"16,92%",3776,gm.w. Małkinia Górna,mazowieckie
@@ -1915,11 +1834,8 @@ gm.m-w. Szydłowiec,szydłowiecki,1479,83,1021,1578,1475,mazowieckie,:,18505,312
 gm.m-w. Pakość,inowrocławski,811,85,631,1148,843,kujawsko-pomorskie,:,9697,1636,"16,87%",3518,gm.m-w. Pakość,kujawsko-pomorskie
 gm.m-w. Wojnicz,tarnowski,834,72,804,1242,794,małopolskie,:,13340,2250,"16,87%",3746,gm.m-w. Wojnicz,małopolskie
 gm.w. Baranów,grodziski,368,33,393,682,360,mazowieckie,:,5371,906,"16,87%",1836,gm.w. Baranów,lubeskie
-gm.w. Baranów,grodziski,368,33,393,682,360,mazowieckie,:,5371,906,"16,87%",1836,gm.w. Baranów,mazowieckie
-gm.w. Baranów,grodziski,368,33,393,682,360,mazowieckie,:,5371,906,"16,87%",1836,gm.w. Baranów,wielkopolskie
 gm.w. Brańszczyk,wyszkowski,602,27,360,715,541,mazowieckie,:,8110,1368,"16,87%",2245,gm.w. Brańszczyk,mazowieckie
 gm.w. Czermin,pleszewski,358,18,297,499,383,wielkopolskie,:,4935,832,"16,86%",1555,gm.w. Czermin,podkarpackie
-gm.w. Czermin,pleszewski,358,18,297,499,383,wielkopolskie,:,4935,832,"16,86%",1555,gm.w. Czermin,wielkopolskie
 gm.w. Dominowo,średzki,189,25,291,427,275,wielkopolskie,:,3180,536,"16,86%",1207,gm.w. Dominowo,wielkopolskie
 gm.w. Kraśnik,kraśnicki,433,37,386,627,431,lubelskie,:,7252,1222,"16,85%",1914,gm.w. Kraśnik,lubeskie
 gm.w. Człuchów,człuchowski,574,93,658,1224,725,pomorskie,:,11215,1890,"16,85%",3274,gm.w. Człuchów,pomorskie
@@ -1948,7 +1864,6 @@ gm.w. Jeżewo,świecki,522,51,433,837,640,kujawsko-pomorskie,:,8055,1347,"16,72%
 gm.w. Niegosławice,żagański,318,31,239,430,385,lubuskie,:,4341,725,"16,70%",1403,gm.w. Niegosławice,lubuskie
 gm.m-w. Ośno Lubuskie,słubicki,373,50,387,664,535,lubuskie,:,6358,1061,"16,69%",2009,gm.m-w. Ośno Lubuskie,lubuskie
 gm.w. Wiśniowa,myślenicki,376,48,454,760,487,małopolskie,:,7418,1238,"16,69%",2125,gm.w. Wiśniowa,małopolskie
-gm.w. Wiśniowa,myślenicki,376,48,454,760,487,małopolskie,:,7418,1238,"16,69%",2125,gm.w. Wiśniowa,podkarpackie
 gm.w. Malbork,malborski,215,38,332,663,307,pomorskie,:,4858,811,"16,69%",1555,gm.w. Malbork,pomorskie
 gm.m-w. Nowe Brzesko,proszowicki,486,34,374,614,437,małopolskie,:,5676,946,"16,67%",1945,gm.m-w. Nowe Brzesko,małopolskie
 gm.w. Starogard Gdański,starogardzki,708,96,1150,1964,1003,pomorskie,:,16865,2811,"16,67%",4921,gm.w. Starogard Gdański,pomorskie
@@ -1963,7 +1878,6 @@ gm.w. Damasławek,wągrowiecki,362,28,385,550,467,wielkopolskie,:,5304,883,"16,6
 gm.w. Płużnica,wąbrzeski,356,24,248,408,358,kujawsko-pomorskie,:,4771,794,"16,64%",1394,gm.w. Płużnica,kujawsko-pomorskie
 gm.w. Borzęcin,brzeski,551,31,427,771,511,małopolskie,:,8267,1375,"16,63%",2291,gm.w. Borzęcin,małopolskie
 gm.w. Czermin,mielecki,392,33,347,662,344,podkarpackie,:,7073,1176,"16,63%",1778,gm.w. Czermin,podkarpackie
-gm.w. Czermin,mielecki,392,33,347,662,344,podkarpackie,:,7073,1176,"16,63%",1778,gm.w. Czermin,wielkopolskie
 gm.m-w. Pilawa,garwoliński,715,62,815,1320,884,mazowieckie,:,10959,1821,"16,62%",3796,gm.m-w. Pilawa,mazowieckie
 gm.w. Krzynowłoga Mała,przasnyski,255,14,173,289,228,mazowieckie,:,3417,568,"16,62%",959,gm.w. Krzynowłoga Mała,mazowieckie
 gm.m-w. Sieniawa,przeworski,368,33,314,587,516,podkarpackie,:,7022,1167,"16,62%",1818,gm.m-w. Sieniawa,podkarpackie
@@ -1974,7 +1888,6 @@ gm.w. Nurzec-Stacja,siemiatycki,382,5,119,239,234,podlaskie,:,3688,612,"16,59%",
 gm.w. Godkowo,elbląski,220,10,133,243,243,warmińsko-mazurskie,:,2977,494,"16,59%",849,gm.w. Godkowo,warmińsko-mazurskie
 gm.w. Łęczyca,łęczycki,645,34,534,936,588,łódzkie,:,8535,1415,"16,58%",2737,gm.w. Łęczyca,łódzkie
 gm.w. Spytkowice,wadowicki,609,90,729,1215,657,małopolskie,:,10312,1710,"16,58%",3300,gm.w. Spytkowice,małopolskie
-gm.w. Spytkowice,wadowicki,609,90,729,1215,657,małopolskie,:,10312,1710,"16,58%",3300,gm.w. Spytkowice,małopolskie
 gm.w. Kurzętnik,nowomiejski,569,48,499,826,660,warmińsko-mazurskie,:,9135,1515,"16,58%",2602,gm.w. Kurzętnik,warmińsko-mazurskie
 gm.w. Potęgowo,słupski,389,34,350,606,519,pomorskie,:,6821,1130,"16,57%",1898,gm.w. Potęgowo,pomorskie
 gm.w. Ciechocin,golubsko-dobrzyński,311,36,273,472,334,kujawsko-pomorskie,:,4003,663,"16,56%",1426,gm.w. Ciechocin,kujawsko-pomorskie
@@ -1983,7 +1896,6 @@ gm.w. Regimin,ciechanowski,383,33,350,552,369,mazowieckie,:,4954,820,"16,55%",16
 gm.w. Przechlewo,człuchowski,440,55,332,611,503,pomorskie,:,6273,1038,"16,55%",1941,gm.w. Przechlewo,pomorskie
 gm.w. Łanięta,kutnowski,173,12,168,280,174,łódzkie,:,2425,401,"16,54%",807,gm.w. Łanięta,łódzkie
 gm.w. Ostrówek,lubartowski,292,6,104,231,225,lubelskie,:,3794,627,"16,53%",858,gm.w. Ostrówek,lubeskie
-gm.w. Ostrówek,lubartowski,292,6,104,231,225,lubelskie,:,3794,627,"16,53%",858,gm.w. Ostrówek,łódzkie
 gm.w. Drużbice,bełchatowski,369,19,255,465,386,łódzkie,:,5220,863,"16,53%",1494,gm.w. Drużbice,łódzkie
 gm.w. Besko,sanocki,255,24,210,377,266,podkarpackie,:,4489,742,"16,53%",1132,gm.w. Besko,podkarpackie
 gm.w. Radomin,golubsko-dobrzyński,290,11,275,384,332,kujawsko-pomorskie,:,3801,628,"16,52%",1292,gm.w. Radomin,kujawsko-pomorskie
@@ -1991,7 +1903,6 @@ gm.w. Chełmża,toruński,639,68,661,1159,783,kujawsko-pomorskie,:,9811,1621,"16
 gm.w. Szastarka,kraśnicki,457,27,244,478,404,lubelskie,:,5733,947,"16,52%",1610,gm.w. Szastarka,lubeskie
 gm.w. Opatów,kłobucki,510,44,432,735,474,śląskie,:,6805,1124,"16,52%",2195,gm.w. Opatów,śląskie
 gm.w. Wilków,namysłowski,270,38,253,487,349,opolskie,:,4357,719,"16,50%",1397,gm.w. Wilków,lubeskie
-gm.w. Wilków,namysłowski,270,38,253,487,349,opolskie,:,4357,719,"16,50%",1397,gm.w. Wilków,opolskie
 gm.w. Korczyna,krośnieński,683,52,529,952,625,podkarpackie,:,11143,1839,"16,50%",2841,gm.w. Korczyna,podkarpackie
 gm.w. Regnów,rawski,146,5,94,154,111,łódzkie,:,1819,300,"16,49%",510,gm.w. Regnów,łódzkie
 gm.w. Radomyśl nad Sanem,stalowowolski,573,29,383,603,465,podkarpackie,:,7331,1209,"16,49%",2053,gm.w. Radomyśl nad Sanem,podkarpackie
@@ -2023,7 +1934,6 @@ gm.w. Świdwin,świdwiński,273,22,319,514,472,zachodniopomorskie,:,5799,950,"16
 gm.w. Dzierżoniów,dzierżoniowski,578,58,478,943,734,dolnośląskie,:,9013,1475,"16,37%",2791,gm.w. Dzierżoniów,dolnośląskie
 gm.w. Brzuze,rypiński,406,31,341,483,407,kujawsko-pomorskie,:,5284,865,"16,37%",1668,gm.w. Brzuze,kujawsko-pomorskie
 gm.w. Dębowiec,jasielski,532,20,349,707,458,podkarpackie,:,8844,1448,"16,37%",2066,gm.w. Dębowiec,podkarpackie
-gm.w. Dębowiec,jasielski,532,20,349,707,458,podkarpackie,:,8844,1448,"16,37%",2066,gm.w. Dębowiec,śląskie
 gm.w. Kołaczkowo,wrzesiński,419,29,356,582,524,wielkopolskie,:,5988,980,"16,37%",1910,gm.w. Kołaczkowo,wielkopolskie
 gm.w. Gizałki,pleszewski,272,13,235,397,333,wielkopolskie,:,4591,751,"16,36%",1250,gm.w. Gizałki,wielkopolskie
 gm.w. Jemielno,górowski,230,8,146,229,233,dolnośląskie,:,2967,485,"16,35%",846,gm.w. Jemielno,dolnośląskie
@@ -2061,7 +1971,6 @@ gm.w. Kamionka,lubartowski,429,27,308,603,425,lubelskie,:,6491,1053,"16,22%",179
 gm.w. Miłoradz,malborski,193,20,208,394,278,pomorskie,:,3341,542,"16,22%",1093,gm.w. Miłoradz,pomorskie
 gm.w. Krzywcza,przemyski,265,15,234,411,266,podkarpackie,:,4801,778,"16,21%",1191,gm.w. Krzywcza,podkarpackie
 gm.w. Stężyca,kartuski,569,90,657,1081,626,pomorskie,:,10765,1745,"16,21%",3023,gm.w. Stężyca,lubeskie
-gm.w. Stężyca,kartuski,569,90,657,1081,626,pomorskie,:,10765,1745,"16,21%",3023,gm.w. Stężyca,pomorskie
 gm.w. Boniewo,włocławski,320,15,219,424,243,kujawsko-pomorskie,:,3346,542,"16,20%",1221,gm.w. Boniewo,kujawsko-pomorskie
 gm.w. Susiec,tomaszowski,589,27,314,608,562,lubelskie,:,7384,1196,"16,20%",2100,gm.w. Susiec,lubeskie
 gm.w. Siedlce,siedlecki,918,69,920,1763,1157,mazowieckie,:,18671,3024,"16,20%",4827,gm.w. Siedlce,mazowieckie
@@ -2081,13 +1990,11 @@ gm.w. Brojce,gryficki,194,23,210,321,257,zachodniopomorskie,:,3664,591,"16,13%",
 gm.w. Roźwienica,jarosławski,295,25,288,525,327,podkarpackie,:,6252,1008,"16,12%",1460,gm.w. Roźwienica,podkarpackie
 gm.w. Lipka,złotowski,400,31,339,561,455,wielkopolskie,:,5490,885,"16,12%",1786,gm.w. Lipka,wielkopolskie
 gm.w. Adamów,łukowski,410,17,261,394,315,lubelskie,:,5511,887,"16,10%",1397,gm.w. Adamów,lubeskie
-gm.w. Adamów,łukowski,410,17,261,394,315,lubelskie,:,5511,887,"16,10%",1397,gm.w. Adamów,lubeskie
 gm.w. Baranowo,ostrołęcki,464,17,238,522,373,mazowieckie,:,6460,1040,"16,10%",1614,gm.w. Baranowo,mazowieckie
 gm.w. Uścimów,lubartowski,212,13,144,176,179,lubelskie,:,3120,502,"16,09%",724,gm.w. Uścimów,lubeskie
 gm.w. Wola Krzysztoporska,piotrkowski,940,58,709,1294,772,łódzkie,:,11981,1928,"16,09%",3773,gm.w. Wola Krzysztoporska,łódzkie
 gm.w. Krypno,moniecki,267,21,143,356,224,podlaskie,:,3960,637,"16,09%",1011,gm.w. Krypno,podlaskie
 gm.w. Dębowiec,cieszyński,360,67,440,726,451,śląskie,:,5845,939,"16,07%",2044,gm.w. Dębowiec,podkarpackie
-gm.w. Dębowiec,cieszyński,360,67,440,726,451,śląskie,:,5845,939,"16,07%",2044,gm.w. Dębowiec,śląskie
 gm.w. Golub-Dobrzyń,golubsko-dobrzyński,561,59,648,1000,624,kujawsko-pomorskie,:,8841,1420,"16,06%",2892,gm.w. Golub-Dobrzyń,kujawsko-pomorskie
 gm.w. Stara Błotnica,białobrzeski,324,38,388,564,370,mazowieckie,:,5294,850,"16,06%",1684,gm.w. Stara Błotnica,mazowieckie
 gm.w. Lubichowo,starogardzki,359,19,259,591,439,pomorskie,:,6717,1079,"16,06%",1667,gm.w. Lubichowo,pomorskie
@@ -2101,7 +2008,6 @@ gm.w. Wojaszówka,krośnieński,596,57,451,848,594,podkarpackie,:,9360,1497,"15,
 gm.w. Boleszkowice,myśliborski,172,21,170,295,206,zachodniopomorskie,:,2846,455,"15,99%",864,gm.w. Boleszkowice,zachodniopomorskie
 gm.w. Czernikowo,toruński,510,58,607,978,542,kujawsko-pomorskie,:,9026,1442,"15,98%",2695,gm.w. Czernikowo,kujawsko-pomorskie
 gm.w. Łubnice,wieruszowski,342,13,209,397,279,łódzkie,:,4015,641,"15,97%",1240,gm.w. Łubnice,łódzkie
-gm.w. Łubnice,wieruszowski,342,13,209,397,279,łódzkie,:,4015,641,"15,97%",1240,gm.w. Łubnice,świętokrzyskie
 gm.w. Łomża,łomżyński,561,55,628,1150,695,podlaskie,:,11254,1797,"15,97%",3089,gm.w. Łomża,podlaskie
 gm.w. Iłowo-Osada,działdowski,558,36,336,774,538,warmińsko-mazurskie,:,7169,1145,"15,97%",2242,gm.w. Iłowo-Osada,warmińsko-mazurskie
 gm.w. Strzelce,kutnowski,315,31,298,378,322,łódzkie,:,3892,621,"15,96%",1344,gm.w. Strzelce,łódzkie
@@ -2120,7 +2026,6 @@ gm.w. Latowicz,miński,392,26,285,455,320,mazowieckie,:,5379,856,"15,91%",1478,g
 gm.w. Dobra,limanowski,567,42,500,859,603,małopolskie,:,10037,1595,"15,89%",2571,gm.w. Dobra,małopolskie
 gm.m-w. Krobia,gostyński,894,59,721,1208,806,wielkopolskie,:,12918,2053,"15,89%",3688,gm.m-w. Krobia,wielkopolskie
 gm.m-w. Dobra,turecki,459,30,316,570,450,wielkopolskie,:,6067,964,"15,89%",1825,gm.m-w. Dobra,wielkopolskie
-gm.m-w. Dobra,turecki,459,30,316,570,450,wielkopolskie,:,6067,964,"15,89%",1825,gm.m-w. Dobra,zachodniopomorskie
 gm.w. Drzycim,świecki,301,26,253,468,320,kujawsko-pomorskie,:,4889,776,"15,87%",1368,gm.w. Drzycim,kujawsko-pomorskie
 gm.w. Łęki Szlacheckie,piotrkowski,278,7,162,295,225,łódzkie,:,3405,540,"15,86%",967,gm.w. Łęki Szlacheckie,łódzkie
 gm.w. Żyraków,dębicki,785,83,771,1302,776,podkarpackie,:,14277,2265,"15,86%",3717,gm.w. Żyraków,podkarpackie
@@ -2157,7 +2062,6 @@ gm.m-w. Krzywiń,kościański,677,32,594,994,763,wielkopolskie,:,9926,1558,"15,7
 gm.w. Raków,kielecki,430,11,266,438,404,świętokrzyskie,:,5544,870,"15,69%",1549,gm.w. Raków,świętokrzyskie
 gm.m-w. Dąbrowa Tarnowska,dąbrowski,1244,100,1139,1839,1205,małopolskie,:,21187,3322,"15,68%",5527,gm.m-w. Dąbrowa Tarnowska,małopolskie
 gm.w. Szydłowo,pilski,418,111,665,1280,706,wielkopolskie,:,9341,1465,"15,68%",3180,gm.w. Szydłowo,mazowieckie
-gm.w. Szydłowo,pilski,418,111,665,1280,706,wielkopolskie,:,9341,1465,"15,68%",3180,gm.w. Szydłowo,wielkopolskie
 gm.w. Miączyn,zamojski,410,14,252,469,356,lubelskie,:,5667,888,"15,67%",1501,gm.w. Miączyn,lubeskie
 gm.w. Lubochnia,tomaszowski,514,59,469,799,530,łódzkie,:,7123,1116,"15,67%",2371,gm.w. Lubochnia,łódzkie
 gm.w. Perzów,kępiński,249,30,225,402,265,wielkopolskie,:,3765,590,"15,67%",1171,gm.w. Perzów,wielkopolskie
@@ -2181,7 +2085,6 @@ gm.w. Osiecznica,bolesławiecki,400,49,492,807,476,dolnośląskie,:,7288,1135,"1
 gm.w. Jemielnica,strzelecki,485,53,499,698,447,opolskie,:,7224,1125,"15,57%",2182,gm.w. Jemielnica,opolskie
 gm.w. Kłoczew,rycki,497,26,357,565,443,lubelskie,:,7125,1109,"15,56%",1888,gm.w. Kłoczew,lubeskie
 gm.w. Zakrzew,radomski,632,83,769,1394,793,mazowieckie,:,13308,2071,"15,56%",3671,gm.w. Zakrzew,lubeskie
-gm.w. Zakrzew,radomski,632,83,769,1394,793,mazowieckie,:,13308,2071,"15,56%",3671,gm.w. Zakrzew,mazowieckie
 gm.m-w. Łagów,kielecki,455,17,319,631,420,świętokrzyskie,:,6812,1059,"15,55%",1842,gm.m-w. Łagów,świętokrzyskie
 gm.w. Raciąż,płoński,579,38,444,814,556,mazowieckie,:,8218,1277,"15,54%",2431,gm.w. Raciąż,mazowieckie
 gm.w. Szerzyny,tarnowski,511,29,346,622,449,małopolskie,:,7888,1225,"15,53%",1957,gm.w. Szerzyny,małopolskie
@@ -2194,7 +2097,6 @@ gm.w. Świątki,olsztyński,218,14,161,316,279,warmińsko-mazurskie,:,3991,619,"
 gm.w. Huszlew,łosicki,252,13,118,256,180,mazowieckie,:,2780,431,"15,50%",819,gm.w. Huszlew,mazowieckie
 gm.w. Iwaniska,opatowski,471,17,297,472,457,świętokrzyskie,:,6516,1010,"15,50%",1714,gm.w. Iwaniska,świętokrzyskie
 gm.w. Brody,starachowicki,765,69,633,1187,733,świętokrzyskie,:,10760,1668,"15,50%",3387,gm.w. Brody,lubuskie
-gm.w. Brody,starachowicki,765,69,633,1187,733,świętokrzyskie,:,10760,1668,"15,50%",3387,gm.w. Brody,świętokrzyskie
 gm.w. Dziadowa Kłoda,oleśnicki,293,26,261,463,330,dolnośląskie,:,4598,712,"15,49%",1373,gm.w. Dziadowa Kłoda,dolnośląskie
 gm.w. Kotuń,siedlecki,518,31,367,675,498,mazowieckie,:,8490,1315,"15,49%",2089,gm.w. Kotuń,mazowieckie
 gm.m-w. Szamocin,chodzieski,545,31,373,679,593,wielkopolskie,:,7513,1164,"15,49%",2221,gm.m-w. Szamocin,wielkopolskie
@@ -2230,7 +2132,6 @@ gm.w. Sokoły,wysokomazowiecki,423,19,261,415,391,podlaskie,:,5679,872,"15,35%",
 gm.w. Rzezawa,bocheński,554,65,671,1157,667,małopolskie,:,11430,1753,"15,34%",3114,gm.w. Rzezawa,małopolskie
 gm.w. Małdyty,ostródzki,411,22,272,490,485,warmińsko-mazurskie,:,6218,954,"15,34%",1680,gm.w. Małdyty,warmińsko-mazurskie
 gm.w. Lipno,lipnowski,670,66,709,1312,744,kujawsko-pomorskie,:,11830,1813,"15,33%",3501,gm.w. Lipno,kujawsko-pomorskie
-gm.w. Lipno,lipnowski,670,66,709,1312,744,kujawsko-pomorskie,:,11830,1813,"15,33%",3501,gm.w. Lipno,wielkopolskie
 gm.w. Lipnica Murowana,bocheński,280,24,328,488,343,małopolskie,:,5642,865,"15,33%",1463,gm.w. Lipnica Murowana,małopolskie
 gm.w. Sierpc,sierpecki,432,23,359,761,419,mazowieckie,:,7004,1074,"15,33%",1994,gm.w. Sierpc,mazowieckie
 gm.w. Cisek,kędzierzyńsko-kozielski,386,35,309,478,318,opolskie,:,5553,850,"15,31%",1526,gm.w. Cisek,opolskie
@@ -2279,7 +2180,6 @@ gm.m-w. Chorzele,przasnyski,671,52,528,1045,621,mazowieckie,:,10075,1515,"15,04%
 gm.w. Kamieniec,grodziski,475,31,464,639,536,wielkopolskie,:,6621,995,"15,03%",2145,gm.w. Kamieniec,wielkopolskie
 gm.w. Gródek nad Dunajcem,nowosądecki,524,41,471,826,493,małopolskie,:,9243,1388,"15,02%",2355,gm.w. Gródek nad Dunajcem,małopolskie
 gm.w. Bolesław,dąbrowski,190,5,85,192,143,małopolskie,:,2586,388,15%,615,gm.w. Bolesław,małopolskie
-gm.w. Bolesław,dąbrowski,190,5,85,192,143,małopolskie,:,2586,388,15%,615,gm.w. Bolesław,małopolskie
 gm.w. Pcim,myślenicki,582,84,757,1023,681,małopolskie,:,11147,1672,15%,3127,gm.w. Pcim,małopolskie
 gm.w. Gostynin,gostyniński,862,33,630,1290,785,mazowieckie,:,11957,1794,15%,3600,gm.w. Gostynin,mazowieckie
 gm.w. Tokarnia,myślenicki,440,56,563,895,513,małopolskie,:,8860,1328,"14,99%",2467,gm.w. Tokarnia,małopolskie
@@ -2290,8 +2190,6 @@ gm.w. Uście Gorlickie,gorlicki,359,42,344,553,403,małopolskie,:,6880,1029,"14,
 gm.w. Mszana Dolna,limanowski,922,55,828,1517,928,małopolskie,:,17618,2634,"14,95%",4250,gm.w. Mszana Dolna,małopolskie
 gm.w. Lubomino,lidzbarski,234,11,131,294,214,warmińsko-mazurskie,:,3566,533,"14,95%",884,gm.w. Lubomino,warmińsko-mazurskie
 gm.w. Tarnowiec,jasielski,610,48,379,750,553,podkarpackie,:,9151,1364,"14,91%",2340,gm.w. Tarnowiec,podkarpackie
-gm.w. Czarna,bieszczadzki,145,16,96,195,140,podkarpackie,:,2378,354,"14,89%",592,gm.w. Czarna,podkarpackie
-gm.w. Czarna,bieszczadzki,145,16,96,195,140,podkarpackie,:,2378,354,"14,89%",592,gm.w. Czarna,podkarpackie
 gm.w. Czarna,bieszczadzki,145,16,96,195,140,podkarpackie,:,2378,354,"14,89%",592,gm.w. Czarna,podkarpackie
 gm.w. Krynice,tomaszowski,302,13,127,222,175,lubelskie,:,3204,476,"14,86%",839,gm.w. Krynice,lubeskie
 gm.w. Pawłów,starachowicki,1011,75,784,1456,932,świętokrzyskie,:,15187,2250,"14,82%",4258,gm.w. Pawłów,świętokrzyskie
@@ -2306,7 +2204,6 @@ gm.m-w. Stary Sącz,nowosądecki,1301,125,1364,2127,1418,małopolskie,:,23793,35
 gm.w. Domaradz,brzozowski,322,12,239,399,298,podkarpackie,:,6055,895,"14,78%",1270,gm.w. Domaradz,podkarpackie
 gm.m-w. Bobowa,gorlicki,555,46,454,802,554,małopolskie,:,9805,1448,"14,77%",2411,gm.m-w. Bobowa,małopolskie
 gm.w. Wiśniowa,strzyżowski,470,53,394,631,439,podkarpackie,:,7988,1180,"14,77%",1987,gm.w. Wiśniowa,małopolskie
-gm.w. Wiśniowa,strzyżowski,470,53,394,631,439,podkarpackie,:,7988,1180,"14,77%",1987,gm.w. Wiśniowa,podkarpackie
 gm.w. Szumowo,zambrowski,325,14,207,388,300,podlaskie,:,4759,703,"14,77%",1234,gm.w. Szumowo,podlaskie
 gm.w. Grunwald,ostródzki,295,25,282,536,413,warmińsko-mazurskie,:,5566,822,"14,77%",1551,gm.w. Grunwald,warmińsko-mazurskie
 gm.w. Kramsk,koniński,807,70,677,1248,677,wielkopolskie,:,11337,1675,"14,77%",3479,gm.w. Kramsk,wielkopolskie
@@ -2321,17 +2218,14 @@ gm.w. Potok Wielki,janowski,321,24,206,404,245,lubelskie,:,4561,671,"14,71%",120
 gm.m-w. Brusy,chojnicki,879,71,814,1291,870,pomorskie,:,14627,2151,"14,71%",3925,gm.m-w. Brusy,pomorskie
 gm.w. Kawęczyn,turecki,371,15,219,455,341,wielkopolskie,:,5187,763,"14,71%",1401,gm.w. Kawęczyn,wielkopolskie
 gm.w. Sławno,opoczyński,525,61,462,779,524,łódzkie,:,7645,1123,"14,69%",2351,gm.w. Sławno,łódzkie
-gm.w. Sławno,opoczyński,525,61,462,779,524,łódzkie,:,7645,1123,"14,69%",2351,gm.w. Sławno,zachodniopomorskie
 gm.w. Wielgomłyny,radomszczański,389,14,176,309,256,łódzkie,:,4510,662,"14,68%",1144,gm.w. Wielgomłyny,łódzkie
 gm.w. Szydłowo,mławski,299,17,222,432,314,mazowieckie,:,4537,666,"14,68%",1284,gm.w. Szydłowo,mazowieckie
-gm.w. Szydłowo,mławski,299,17,222,432,314,mazowieckie,:,4537,666,"14,68%",1284,gm.w. Szydłowo,wielkopolskie
 gm.w. Dydnia,brzozowski,353,25,313,567,371,podkarpackie,:,7886,1158,"14,68%",1629,gm.w. Dydnia,podkarpackie
 gm.w. Doruchów,ostrzeszowski,374,30,260,465,359,wielkopolskie,:,5373,789,"14,68%",1488,gm.w. Doruchów,wielkopolskie
 gm.w. Ruda-Huta,chełmski,295,28,187,421,329,lubelskie,:,4474,656,"14,66%",1260,gm.w. Ruda-Huta,lubeskie
 gm.w. Morzeszczyn,tczewski,151,4,191,339,279,pomorskie,:,3649,535,"14,66%",964,gm.w. Morzeszczyn,pomorskie
 gm.m-w. Radłów,tarnowski,540,49,516,843,537,małopolskie,:,9604,1407,"14,65%",2485,gm.m-w. Radłów,małopolskie
 gm.w. Rokietnica,jarosławski,233,27,221,330,238,podkarpackie,:,4313,632,"14,65%",1049,gm.w. Rokietnica,podkarpackie
-gm.w. Rokietnica,jarosławski,233,27,221,330,238,podkarpackie,:,4313,632,"14,65%",1049,gm.w. Rokietnica,wielkopolskie
 gm.m-w. Nowa Sarzyna,leżajski,1190,92,926,1501,1177,podkarpackie,:,21489,3148,"14,65%",4886,gm.m-w. Nowa Sarzyna,podkarpackie
 gm.w. Pysznica,stalowowolski,550,52,457,965,554,podkarpackie,:,11335,1661,"14,65%",2578,gm.w. Pysznica,podkarpackie
 gm.w. Sawin,chełmski,342,25,215,413,377,lubelskie,:,5417,793,"14,64%",1372,gm.w. Sawin,lubeskie
@@ -2351,16 +2245,11 @@ gm.w. Zapolice,zduńskowolski,309,33,321,521,382,łódzkie,:,5243,763,"14,55%",1
 gm.m-w. Czerniejewo,gnieźnieński,473,57,521,843,496,wielkopolskie,:,7388,1075,"14,55%",2390,gm.m-w. Czerniejewo,wielkopolskie
 gm.m-w. Korsze,kętrzyński,627,41,412,711,716,warmińsko-mazurskie,:,9540,1387,"14,54%",2507,gm.m-w. Korsze,warmińsko-mazurskie
 gm.w. Poświętne,wołomiński,326,21,301,538,392,mazowieckie,:,6239,906,"14,52%",1578,gm.w. Poświętne,łódzkie
-gm.w. Poświętne,wołomiński,326,21,301,538,392,mazowieckie,:,6239,906,"14,52%",1578,gm.w. Poświętne,mazowieckie
-gm.w. Poświętne,wołomiński,326,21,301,538,392,mazowieckie,:,6239,906,"14,52%",1578,gm.w. Poświętne,podlaskie
-gm.w. Czarna,dębicki,682,53,663,1064,687,podkarpackie,:,13158,1911,"14,52%",3149,gm.w. Czarna,podkarpackie
-gm.w. Czarna,dębicki,682,53,663,1064,687,podkarpackie,:,13158,1911,"14,52%",3149,gm.w. Czarna,podkarpackie
 gm.w. Czarna,dębicki,682,53,663,1064,687,podkarpackie,:,13158,1911,"14,52%",3149,gm.w. Czarna,podkarpackie
 gm.w. Klonowa,sieradzki,245,15,145,283,168,łódzkie,:,2888,419,"14,51%",856,gm.w. Klonowa,łódzkie
 gm.m-w. Zakliczyn,tarnowski,723,25,496,921,671,małopolskie,:,12536,1818,"14,50%",2836,gm.m-w. Zakliczyn,małopolskie
 gm.w. Jeleśnia,żywiecki,858,54,717,1331,798,śląskie,:,13210,1916,"14,50%",3758,gm.w. Jeleśnia,śląskie
 gm.w. Kamień,chełmski,256,21,172,411,285,lubelskie,:,4162,603,"14,49%",1145,gm.w. Kamień,lubeskie
-gm.w. Kamień,chełmski,256,21,172,411,285,lubelskie,:,4162,603,"14,49%",1145,gm.w. Kamień,podkarpackie
 gm.m-w. Szczucin,dąbrowski,830,67,721,1308,778,małopolskie,:,13103,1898,"14,49%",3704,gm.m-w. Szczucin,małopolskie
 gm.w. Dorohusk,chełmski,413,23,247,504,424,lubelskie,:,6321,915,"14,48%",1611,gm.w. Dorohusk,lubeskie
 gm.w. Masłowice,radomszczański,346,17,218,396,321,łódzkie,:,4139,599,"14,47%",1298,gm.w. Masłowice,łódzkie
@@ -2417,7 +2306,6 @@ gm.w. Rozogi,szczycieński,307,21,257,534,323,warmińsko-mazurskie,:,5497,769,"1
 gm.m-w. Szlichtyngowa,wschowski,307,28,269,486,359,lubuskie,:,5019,701,"13,97%",1449,gm.m-w. Szlichtyngowa,lubuskie
 gm.w. Wydminy,giżycki,462,33,291,554,473,warmińsko-mazurskie,:,6176,862,"13,96%",1813,gm.w. Wydminy,warmińsko-mazurskie
 gm.w. Aleksandrów,biłgorajski,220,8,118,231,180,lubelskie,:,3269,456,"13,95%",757,gm.w. Aleksandrów,lubeskie
-gm.w. Aleksandrów,biłgorajski,220,8,118,231,180,lubelskie,:,3269,456,"13,95%",757,gm.w. Aleksandrów,łódzkie
 gm.w. Biłgoraj,biłgorajski,659,66,571,1062,738,lubelskie,:,13381,1866,"13,95%",3096,gm.w. Biłgoraj,lubeskie
 gm.w. Łużna,gorlicki,446,49,419,720,484,małopolskie,:,8517,1188,"13,95%",2118,gm.w. Łużna,małopolskie
 gm.w. Łącko,nowosądecki,846,58,823,1497,917,małopolskie,:,16579,2313,"13,95%",4141,gm.w. Łącko,małopolskie
@@ -2448,7 +2336,6 @@ gm.w. Raniżów,kolbuszowski,320,20,261,403,326,podkarpackie,:,6999,956,"13,66%"
 gm.w. Bobowo,starogardzki,152,14,153,292,163,pomorskie,:,3199,437,"13,66%",774,gm.w. Bobowo,pomorskie
 gm.m-w. Wielbark,szczycieński,343,20,252,554,417,warmińsko-mazurskie,:,6456,882,"13,66%",1586,gm.m-w. Wielbark,warmińsko-mazurskie
 gm.w. Moszczenica,gorlicki,268,19,175,369,285,małopolskie,:,5026,686,"13,65%",1116,gm.w. Moszczenica,łódzkie
-gm.w. Moszczenica,gorlicki,268,19,175,369,285,małopolskie,:,5026,686,"13,65%",1116,gm.w. Moszczenica,małopolskie
 gm.w. Goraj,biłgorajski,321,7,123,235,202,lubelskie,:,4041,551,"13,64%",888,,
 gm.w. Brudzew,turecki,435,23,297,550,370,wielkopolskie,:,5958,811,"13,61%",1675,gm.w. Brudzew,wielkopolskie
 gm.w. Nowy Targ,nowotarski,1323,79,926,1794,1168,małopolskie,:,24131,3277,"13,58%",5290,gm.w. Nowy Targ,małopolskie
@@ -2461,9 +2348,7 @@ gm.w. Kobylin-Borzymy,wysokomazowiecki,243,10,95,199,174,podlaskie,:,3148,425,"1
 gm.w. Zawady,białostocki,188,4,82,177,146,podlaskie,:,2686,362,"13,48%",597,gm.w. Zawady,podlaskie
 gm.w. Domanice,siedlecki,158,7,103,168,153,mazowieckie,:,2620,353,"13,47%",589,gm.w. Domanice,mazowieckie
 gm.w. Kolno,kolneński,486,25,332,600,432,podlaskie,:,8498,1145,"13,47%",1875,gm.w. Kolno,podlaskie
-gm.w. Kolno,kolneński,486,25,332,600,432,podlaskie,:,8498,1145,"13,47%",1875,gm.w. Kolno,warmińsko-mazurskie
 gm.w. Brzeziny,kaliski,373,23,249,429,319,wielkopolskie,:,5792,775,"13,38%",1393,gm.w. Brzeziny,łódzkie
-gm.w. Brzeziny,kaliski,373,23,249,429,319,wielkopolskie,:,5792,775,"13,38%",1393,gm.w. Brzeziny,wielkopolskie
 gm.w. Trzebieszów,łukowski,454,17,299,552,423,lubelskie,:,7320,978,"13,36%",1745,gm.w. Trzebieszów,lubeskie
 gm.w. Ulan-Majorat,radzyński,342,15,260,401,328,lubelskie,:,5962,796,"13,35%",1346,gm.w. Ulan-Majorat,lubeskie
 gm.m-w. Pilzno,dębicki,928,78,870,1424,846,podkarpackie,:,18233,2434,"13,35%",4146,gm.m-w. Pilzno,podkarpackie
@@ -2506,8 +2391,6 @@ gm.w. Lipnica,bytowski,306,15,262,428,313,pomorskie,:,5202,668,"12,84%",1324,gm.
 gm.w. Lichnowy,malborski,227,9,201,488,316,pomorskie,:,4618,593,"12,84%",1241,gm.w. Lichnowy,pomorskie
 gm.w. Żytno,radomszczański,394,13,193,335,278,łódzkie,:,5080,651,"12,82%",1213,gm.w. Żytno,łódzkie
 gm.w. Spytkowice,nowotarski,229,11,185,309,221,małopolskie,:,4626,593,"12,82%",955,gm.w. Spytkowice,małopolskie
-gm.w. Spytkowice,nowotarski,229,11,185,309,221,małopolskie,:,4626,593,"12,82%",955,gm.w. Spytkowice,małopolskie
-gm.w. Świętajno,olecki,230,12,164,287,291,warmińsko-mazurskie,:,3906,500,"12,80%",984,gm.w. Świętajno,warmińsko-mazurskie
 gm.w. Świętajno,olecki,230,12,164,287,291,warmińsko-mazurskie,:,3906,500,"12,80%",984,gm.w. Świętajno,warmińsko-mazurskie
 gm.w. Rytro,nowosądecki,194,20,202,339,192,małopolskie,:,3752,480,"12,79%",947,gm.w. Rytro,małopolskie
 gm.w. Mirów,szydłowiecki,201,20,166,233,191,mazowieckie,:,3859,492,"12,75%",811,gm.w. Mirów,mazowieckie
@@ -2535,13 +2418,11 @@ gm.w. Raba Wyżna,nowotarski,692,52,598,1042,727,małopolskie,:,14789,1821,"12,3
 gm.m-w. Brzostek,dębicki,635,36,447,803,587,podkarpackie,:,12944,1591,"12,29%",2508,gm.m-w. Brzostek,podkarpackie
 gm.w. Łuków,łukowski,708,38,707,1280,832,lubelskie,:,18293,2240,"12,25%",3565,gm.w. Łuków,lubeskie
 gm.w. Dąbrowa,mogileński,302,12,238,435,316,kujawsko-pomorskie,:,4607,562,"12,20%",1303,gm.w. Dąbrowa,kujawsko-pomorskie
-gm.w. Dąbrowa,mogileński,302,12,238,435,316,kujawsko-pomorskie,:,4607,562,"12,20%",1303,gm.w. Dąbrowa,opolskie
 gm.w. Turek,turecki,454,53,561,1147,530,wielkopolskie,:,10152,1238,"12,19%",2745,gm.w. Turek,wielkopolskie
 gm.w. Wiśniew,siedlecki,247,15,222,425,262,mazowieckie,:,5774,703,"12,18%",1171,gm.w. Wiśniew,mazowieckie
 gm.w. Rozdrażew,krotoszyński,311,26,306,382,313,wielkopolskie,:,5151,626,"12,15%",1338,gm.w. Rozdrażew,wielkopolskie
 gm.w. Głowaczów,kozienicki,379,29,326,588,439,mazowieckie,:,7060,850,"12,04%",1761,gm.w. Głowaczów,mazowieckie
 gm.w. Zakrzewo,złotowski,276,26,246,426,335,wielkopolskie,:,4880,587,"12,03%",1309,gm.w. Zakrzewo,kujawsko-pomorskie
-gm.w. Zakrzewo,złotowski,276,26,246,426,335,wielkopolskie,:,4880,587,"12,03%",1309,gm.w. Zakrzewo,wielkopolskie
 gm.w. Wojcieszków,łukowski,390,14,221,444,305,lubelskie,:,6828,818,"11,98%",1374,gm.w. Wojcieszków,lubeskie
 gm.w. Jarocin,niżański,279,16,192,358,277,podkarpackie,:,5368,642,"11,96%",1122,gm.w. Jarocin,podkarpackie
 gm.w. Zblewo,starogardzki,538,38,596,920,638,pomorskie,:,11959,1429,"11,95%",2730,gm.w. Zblewo,pomorskie
@@ -2580,7 +2461,6 @@ gm.w. Nawojowa,nowosądecki,347,46,470,751,396,małopolskie,:,8788,926,"10,54%",
 gm.w. Podegrodzie,nowosądecki,566,57,697,1025,595,małopolskie,:,13391,1407,"10,51%",2940,gm.w. Podegrodzie,małopolskie
 gm.w. Łukowica,limanowski,447,53,523,784,428,małopolskie,:,10133,1059,"10,45%",2235,gm.w. Łukowica,małopolskie
 gm.w. Kamień,rzeszowski,294,9,228,432,268,podkarpackie,:,6848,699,"10,21%",1231,gm.w. Kamień,lubeskie
-gm.w. Kamień,rzeszowski,294,9,228,432,268,podkarpackie,:,6848,699,"10,21%",1231,gm.w. Kamień,podkarpackie
 gm.w. Prostki,ełcki,319,36,307,475,359,warmińsko-mazurskie,:,7215,736,"10,20%",1496,gm.w. Prostki,warmińsko-mazurskie
 gm.w. Grajewo,grajewski,252,22,204,332,234,podlaskie,:,5772,576,"9,98%",1044,gm.w. Grajewo,podlaskie
 gm.w. Dzikowiec,kolbuszowski,274,16,198,354,230,podkarpackie,:,6480,645,"9,95%",1072,gm.w. Dzikowiec,podkarpackie
