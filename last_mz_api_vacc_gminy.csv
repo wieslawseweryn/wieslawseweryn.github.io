@@ -66,7 +66,7 @@ wadowicki,3606,0,421,3181,5328,3442,43285,10123,"23,4",15978,gm.m-w. Andrychów,
 kraśnicki,725,0,54,455,831,745,8483,1950,"23,0",2810,gm.m-w. Annopol,lubelskie,g.m-w.,<20k
 zielonogórski,583,0,63,511,864,614,6177,1945,"31,5",2635,gm.m-w. Babimost,lubuskie,g.m-w.,<20k
 głubczycki,470,0,46,400,665,498,5901,1443,"24,5",2079,gm.m-w. Baborów,opolskie,g.m-w.,<20k
-tarnobrzeski,797,0,98,640,1154,759,11770,2465,"20,9",3448,,,g.m-w.,<20k
+tarnobrzeski,797,0,98,640,1154,759,11770,2465,"20,9",3448,gm.m-w. Baranów Sandomierski,podkarpackie,g.m-w.,<20k
 żniński,1307,0,190,1105,1999,1340,14720,3444,"23,4",5941,gm.m-w. Barcin,kujawsko-pomorskie,g.m-w.,<20k
 olsztyński,1292,0,285,1505,2701,1669,18142,4912,"27,1",7452,gm.m-w. Barczewo,warmińsko-mazurskie,g.m-w.,<20k
 ząbkowicki,444,0,69,475,604,484,5210,1402,"26,9",2076,gm.m-w. Bardo,dolnośląskie,g.m-w.,<20k
@@ -134,7 +134,7 @@ białostocki,983,0,88,655,1113,943,11211,3016,"26,9",3782,gm.m-w. Czarna Białos
 starogardzki,294,0,22,225,365,300,3131,745,"23,8",1206,gm.m-w. Czarna Woda,pomorskie,g.m-w.,<20k
 człuchowski,750,0,158,806,1296,955,8949,2787,"31,1",3965,gm.m-w. Czarne,pomorskie,g.m-w.,<20k
 brzeski (małopolskie),650,0,100,603,921,661,9814,1859,"18,9",2935,gm.m-w. Czchów,małopolskie,g.m-w.,<20k
-bielski,3973,0,604,4209,6505,4192,45490,12645,"27,8",19483,,,g.m-w.,20k-50k
+bielski (śląskie),3973,0,604,4209,6505,4192,45490,12645,"27,8",19483,gm.m-w. Czechowice-Dziedzice,śląskie,g.m-w.,20k-50k
 kościański,891,0,141,1223,1756,1120,11531,2715,"23,5",5131,gm.m-w. Czempiń,wielkopolskie,g.m-w.,<20k
 gnieźnieński,480,0,99,630,921,546,7388,1338,"18,1",2676,gm.m-w. Czerniejewo,wielkopolskie,g.m-w.,<20k
 chojnicki,1557,0,198,1505,2607,1742,21604,4379,"20,3",7609,gm.m-w. Czersk,pomorskie,g.m-w.,20k-50k
@@ -167,7 +167,7 @@ pajęczański,1031,0,132,1140,1747,1151,12346,3608,"29,2",5201,gm.m-w. Działosz
 sztumski,590,0,104,676,1042,806,9210,1946,"21,1",3218,gm.m-w. Dzierzgoń,pomorskie,g.m-w.,<20k
 kamieński,439,0,67,344,642,474,3939,1390,"35,3",1966,gm.m-w. Dziwnów,zachodniopomorskie,g.m-w.,<20k
 kolski,496,0,21,392,575,481,6251,1190,"19,0",1965,gm.m-w. Dąbie,wielkopolskie,g.m-w.,<20k
-sokólski,1035,0,42,619,1161,914,11169,2691,"24,1",3771,,,g.m-w.,<20k
+sokólski,1035,0,42,619,1161,914,11169,2691,"24,1",3771,gm.m-w. Dąbrowa Białostocka,podlaskie,g.m-w.,<20k
 dąbrowski,1266,0,138,1252,1912,1233,21187,3799,"17,9",5801,gm.m-w. Dąbrowa Tarnowska,małopolskie,g.m-w.,20k-50k
 myśliborski,1458,0,181,1231,2196,1619,20386,4414,"21,7",6685,gm.m-w. Dębno,zachodniopomorskie,g.m-w.,20k-50k
 biłgorajski,517,0,33,256,533,442,6059,1289,"21,3",1781,gm.m-w. Frampol,lubelskie,g.m-w.,<20k
@@ -187,8 +187,8 @@ gołdapski,1384,0,247,1513,2402,1619,20018,4925,"24,6",7165,gm.m-w. Gołdap,warm
 kołobrzeski,423,0,51,412,673,516,5133,1474,"28,7",2075,gm.m-w. Gościno,zachodniopomorskie,g.m-w.,<20k
 ostrzeszowski,601,0,68,493,861,579,7777,1701,"21,9",2602,gm.m-w. Grabów nad Prosną,wielkopolskie,g.m-w.,<20k
 brzeski (opolskie),1686,0,210,1408,2285,1811,18984,5692,"30,0",7400,gm.m-w. Grodków,opolskie,g.m-w.,<20k
-grodziski,4094,0,924,5670,8538,4067,49948,14680,"29,4",23293,,,g.m-w.,20k-50k
-grodziski,1468,0,204,2029,2904,1692,20095,4577,"22,8",8297,,,g.m-w.,20k-50k
+grodziski (mazowieckie),4094,0,924,5670,8538,4067,49948,14680,"29,4",23293,gm.m-w. Grodzisk Mazowiecki,mazowieckie,g.m-w.,20k-50k
+grodziski (wielkopolskie),1468,0,204,2029,2904,1692,20095,4577,"22,8",8297,gm.m-w. Grodzisk Wielkopolski,wielkopolskie,g.m-w.,20k-50k
 gryficki,2104,0,223,1850,3041,2354,23647,6144,"26,0",9572,gm.m-w. Gryfice,zachodniopomorskie,g.m-w.,20k-50k
 gryfiński,2868,0,444,2813,4640,3399,31626,9253,"29,3",14164,gm.m-w. Gryfino,zachodniopomorskie,g.m-w.,20k-50k
 lwówecki,879,0,67,597,1024,854,9561,2283,"23,9",3421,gm.m-w. Gryfów Śląski,dolnośląskie,g.m-w.,<20k
@@ -227,7 +227,7 @@ biłgorajski,606,0,13,309,596,493,6706,1573,"23,5",2017,gm.m-w. Józefów,lubels
 opolski (lubelskie),567,0,50,295,560,504,6466,1363,"21,1",1976,gm.m-w. Józefów nad Wisłą,lubelskie,g.m-w.,<20k
 jędrzejowski,2837,0,334,2490,4304,2837,27715,8944,"32,3",12802,gm.m-w. Jędrzejów,świętokrzyskie,g.m-w.,20k-50k
 drawski,579,0,103,575,950,700,7330,1687,"23,0",2907,gm.m-w. Kalisz Pomorski,zachodniopomorskie,g.m-w.,<20k
-wadowicki,1459,0,239,1917,2765,1501,20022,4768,"23,8",7881,,,g.m-w.,20k-50k
+wadowicki,1459,0,239,1917,2765,1501,20022,4768,"23,8",7881,gm.m-w. Kalwaria Zebrzydowska,małopolskie,g.m-w.,20k-50k
 sępoleński,519,0,75,554,801,620,6834,1648,"24,1",2569,gm.m-w. Kamień Krajeński,kujawsko-pomorskie,g.m-w.,<20k
 kamieński,1522,0,154,1116,1888,1579,14217,4458,"31,4",6259,gm.m-w. Kamień Pomorski,zachodniopomorskie,g.m-w.,<20k
 radomszczański,498,0,38,422,763,479,5839,1573,"26,9",2200,gm.m-w. Kamieńsk,łódzkie,g.m-w.,<20k
@@ -375,7 +375,7 @@ kielecki,741,0,87,682,1062,826,9361,2234,"23,9",3398,gm.m-w. Nowa Słupia,świę
 świecki,832,0,88,523,1119,783,10103,2201,"21,8",3345,gm.m-w. Nowe,kujawsko-pomorskie,g.m-w.,<20k
 proszowicki,494,0,73,443,664,456,5676,1216,"21,4",2130,gm.m-w. Nowe Brzesko,małopolskie,g.m-w.,<20k
 nowosolski,409,0,21,333,539,460,5333,1226,"23,0",1762,gm.m-w. Nowe Miasteczko,lubuskie,g.m-w.,<20k
-grójecki,747,0,82,629,906,805,7615,1862,"24,5",3169,,,g.m-w.,<20k
+grójecki,747,0,82,629,906,805,7615,1862,"24,5",3169,gm.m-w. Nowe Miasto nad Pilicą,mazowieckie,g.m-w.,<20k
 ostrowski (wielkopolskie),1036,0,150,1314,1983,1205,15625,3461,"22,2",5688,gm.m-w. Nowe Skalmierzyce,wielkopolskie,g.m-w.,<20k
 policki,134,0,25,120,225,204,1624,528,"32,5",708,gm.m-w. Nowe Warpno,zachodniopomorskie,g.m-w.,<20k
 goleniowski,2067,0,246,1787,3128,2306,24515,6340,"25,9",9534,gm.m-w. Nowogard,zachodniopomorskie,g.m-w.,20k-50k
@@ -533,7 +533,7 @@ kłodzki,767,0,52,435,830,770,7451,2021,"27,1",2854,gm.m-w. Stronie Śląskie,do
 cieszyński,966,0,143,1188,1810,1158,13256,3377,"25,5",5265,gm.m-w. Strumień,śląskie,g.m-w.,<20k
 zgierski,1124,0,178,1099,1883,1167,12681,3612,"28,5",5451,gm.m-w. Stryków,łódzkie,g.m-w.,<20k
 świdnicki (dolnośląskie),2409,0,310,1986,3495,2483,25499,6349,"24,9",10683,gm.m-w. Strzegom,dolnośląskie,g.m-w.,20k-50k
-strzelecko-drezdenecki,1605,0,328,1499,2519,1818,16809,5407,"32,2",7769,,,g.m-w.,<20k
+strzelecko-drezdenecki,1605,0,328,1499,2519,1818,16809,5407,"32,2",7769,gm.m-w. Strzelce Krajeńskie,lubuskie,g.m-w.,<20k
 strzelecki,2813,0,507,2829,4289,2628,30269,8888,"29,4",13066,gm.m-w. Strzelce Opolskie,opolskie,g.m-w.,20k-50k
 strzeliński,2083,0,315,2061,3183,2260,22026,6625,"30,1",9902,gm.m-w. Strzelin,dolnośląskie,g.m-w.,20k-50k
 mogileński,937,0,89,839,1412,985,11524,2680,"23,3",4262,gm.m-w. Strzelno,kujawsko-pomorskie,g.m-w.,<20k
