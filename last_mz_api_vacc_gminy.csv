@@ -381,6 +381,7 @@ JPT_0806023,strzelecko-drezdenecki,1522,218,1260,2132,1526,17009,4777,"28,1",665
 JPT_1419053,płocki,535,100,559,929,528,7811,1629,"20,9",2651,gm.m-w. Drobin,mazowieckie,g.m-w.,<20k
 JPT_2010023,siemiatycki,642,22,348,526,451,6146,1615,"26,3",1989,gm.m-w. Drohiczyn,podlaskie,g.m-w.,<20k
 JPT_1007023,opoczyński,1058,119,865,1372,877,10384,3077,"29,6",4291,gm.m-w. Drzewica,łódzkie,g.m-w.,<20k
+JPT_1813022,przemyski,644,73,500,911,529,9139,2104,23,2657,gm.m-w. Dubiecko,podkarpackie,g.m-w.,<20k
 JPT_1807023,krośnieński (podkarpackie),963,114,783,1307,979,14476,3338,"23,1",4146,gm.m-w. Dukla,podkarpackie,g.m-w.,<20k
 JPT_2608013,pińczowski,581,52,425,667,497,4836,1566,"32,4",2222,gm.m-w. Działoszyce,świętokrzyskie,g.m-w.,<20k
 JPT_1009013,pajęczański,1037,154,1191,1786,1166,12346,4285,"34,7",5334,gm.m-w. Działoszyn,łódzkie,g.m-w.,<20k
@@ -400,6 +401,7 @@ JPT_3207023,kamieński,459,65,471,715,598,5844,1847,"31,6",2308,gm.m-w. Golczewo
 JPT_3204023,goleniowski,2965,637,3589,5540,3457,36139,11977,"33,1",16188,gm.m-w. Goleniów,zachodniopomorskie,g.m-w.,20k-50k
 JPT_3010013,koniński,924,161,1063,1778,1115,12077,3346,"27,7",5041,gm.m-w. Golina,wielkopolskie,g.m-w.,<20k
 JPT_2008013,moniecki,384,26,263,450,348,4897,1120,"22,9",1471,gm.m-w. Goniądz,podlaskie,g.m-w.,<20k
+JPT_0602062,biłgorajski,326,14,160,284,210,4041,738,"18,3",994,gm.m-w. Goraj,lubelskie,g.m-w.,<20k
 JPT_1608023,oleski,562,68,413,699,552,7108,1873,"26,4",2294,gm.m-w. Gorzów Śląski,opolskie,g.m-w.,<20k
 JPT_3004023,gostyński,2491,441,2645,3943,2713,28200,8721,"30,9",12233,gm.m-w. Gostyń,wielkopolskie,g.m-w.,20k-50k
 JPT_3028033,wągrowiecki,566,149,725,945,685,8185,2008,"24,5",3070,gm.m-w. Gołańcz,wielkopolskie,g.m-w.,<20k
@@ -448,6 +450,7 @@ JPT_0612023,opolski (lubelskie),572,59,321,585,515,6466,1539,"23,8",2052,gm.m-w.
 JPT_2602023,jędrzejowski,2894,409,2693,4499,2936,27715,10451,"37,7",13431,gm.m-w. Jędrzejów,świętokrzyskie,g.m-w.,20k-50k
 JPT_3203033,drawski,580,138,629,973,713,7330,1976,27,3033,gm.m-w. Kalisz Pomorski,zachodniopomorskie,g.m-w.,<20k
 JPT_1218033,wadowicki,1474,284,2087,2887,1530,20022,5688,"28,4",8262,gm.m-w. Kalwaria Zebrzydowska,małopolskie,g.m-w.,20k-50k
+JPT_0224032,ząbkowicki,640,80,577,930,792,8003,2198,"27,5",3019,gm.m-w. Kamieniec Ząbkowicki,dolnośląskie,g.m-w.,<20k
 JPT_0413013,sępoleński,522,90,593,845,636,6834,1982,29,2686,gm.m-w. Kamień Krajeński,kujawsko-pomorskie,g.m-w.,<20k
 JPT_3207033,kamieński,1529,188,1185,1951,1604,14217,5203,"36,6",6457,gm.m-w. Kamień Pomorski,zachodniopomorskie,g.m-w.,<20k
 JPT_1012053,radomszczański,506,75,477,835,504,5839,1805,"30,9",2397,gm.m-w. Kamieńsk,łódzkie,g.m-w.,<20k
@@ -838,6 +841,7 @@ JPT_1219053,wielicki,4381,1362,7790,10623,4763,61233,20865,"34,1",28919,gm.m-w. 
 JPT_1017093,wieluński,3329,536,2885,4818,3430,31137,12281,"39,4",14998,gm.m-w. Wieluń,łódzkie,g.m-w.,20k-50k
 JPT_1018073,wieruszowski,1328,182,1337,2057,1260,14184,4939,"34,8",6164,gm.m-w. Wieruszów,łódzkie,g.m-w.,<20k
 JPT_2402093,bielski (śląskie),1419,320,1884,2860,1507,17794,5716,"32,1",7990,gm.m-w. Wilamowice,śląskie,g.m-w.,<20k
+JPT_1438052,żyrardowski,691,111,743,1346,826,9853,2527,"25,6",3717,gm.m-w. Wiskitki,mazowieckie,g.m-w.,<20k
 JPT_3003103,gnieźnieński,1102,202,1376,2121,1293,13512,3715,"27,5",6094,gm.m-w. Witkowo,wielkopolskie,g.m-w.,<20k
 JPT_0801073,gorzowski,810,130,880,1589,1087,12778,3574,28,4496,gm.m-w. Witnica,lubuskie,g.m-w.,<20k
 JPT_0217053,strzeliński,540,91,562,930,623,7041,1862,"26,4",2746,gm.m-w. Wiązów,dolnośląskie,g.m-w.,<20k
