@@ -83,6 +83,7 @@ JPT_1417011,otwocki,2088,713,2409,3891,1966,20741,8250,"39,8",11067,Józefów,ma
 JPT_2413011,tarnogórski,812,129,785,1269,742,8548,2960,"34,6",3737,Kalety,śląskie,m.,<20k
 JPT_3061011,Kalisz,11384,1560,8530,14350,9464,99106,33728,34,45288,Kalisz,wielkopolskie,m.,50k-100k
 JPT_0207011,kamiennogórski,2139,310,1548,2634,1924,18585,6631,"35,7",8555,Kamienna Góra,dolnośląskie,m.,<20k
+JPT_0206011,karkonoski,449,92,449,646,558,4487,1645,"36,7",2194,Karpacz,dolnośląskie,m.,<20k
 JPT_2469011,Katowice,36205,5727,39130,47159,30236,290553,125128,"43,1",158457,Katowice,śląskie,m.,>100k
 JPT_2661011,Kielce,23630,3513,19455,29415,19739,193415,76611,"39,6",95752,Kielce,świętokrzyskie,m.,>100k
 JPT_2405011,gliwicki,3874,852,3934,6190,3636,37801,14639,"38,7",18486,Knurów,śląskie,m.,20k-50k
@@ -93,6 +94,7 @@ JPT_1008011,pabianicki,1978,325,1884,2933,1879,18335,6646,"36,2",8999,Konstantyn
 JPT_0801011,gorzowski,1541,278,1693,2668,1690,17704,5833,"32,9",7870,Kostrzyn nad Odrą,lubuskie,m.,<20k
 JPT_3261011,Koszalin,13193,1809,10087,15565,11067,106235,41285,"38,9",51721,Koszalin,zachodniopomorskie,m.,>100k
 JPT_0418011,włocławski,316,54,364,614,380,3468,1361,"39,2",1728,Kowal,kujawsko-pomorskie,m.,<20k
+JPT_0206021,karkonoski,1078,145,666,1264,1141,10650,3464,"32,5",4294,Kowary,dolnośląskie,m.,<20k
 JPT_3009011,kolski,2300,292,1700,2843,2326,21247,7122,"33,5",9461,Koło,wielkopolskie,m.,20k-50k
 JPT_3208011,kołobrzeski,5604,704,4130,7191,5243,46198,18138,"39,3",22872,Kołobrzeg,zachodniopomorskie,m.,20k-50k
 JPT_3011011,kościański,2571,491,2956,4256,2632,23716,9147,"38,6",12906,Kościan,wielkopolskie,m.,20k-50k
@@ -163,6 +165,7 @@ JPT_0215011,oławski,3945,607,3578,5089,2922,33087,12374,"37,4",16141,Oława,dol
 JPT_1213011,oświęcimski,4847,672,3806,5764,3830,37569,13141,35,18919,Oświęcim,małopolskie,m.,20k-50k
 JPT_1008021,pabianicki,8026,1023,5988,9410,6443,63945,23331,"36,5",30890,Pabianice,łódzkie,m.,50k-100k
 JPT_1421011,pruszkowski,2644,553,3015,4155,2379,22559,9618,"42,6",12746,Piastów,mazowieckie,m.,20k-50k
+JPT_0206031,karkonoski,652,105,441,791,641,6082,1948,32,2630,Piechowice,dolnośląskie,m.,<20k
 JPT_2471011,Piekary Śląskie,5548,987,5926,8415,5732,54702,19976,"36,5",26608,Piekary Śląskie,śląskie,m.,50k-100k
 JPT_1425011,radomski,1891,185,1213,2106,2014,17902,5286,"29,5",7409,Pionki,mazowieckie,m.,<20k
 JPT_1062011,Piotrków Trybunalski,8019,1250,6527,10727,7304,72250,24457,"33,9",33827,Piotrków Trybunalski,łódzkie,m.,50k-100k
@@ -231,6 +234,7 @@ JPT_3262011,Szczecin,46396,8080,48152,62012,39865,398255,166744,"41,9",204508,Sz
 JPT_3215011,szczecinecki,4551,706,3495,5762,4334,39827,15852,"39,8",18848,Szczecinek,zachodniopomorskie,m.,20k-50k
 JPT_2402011,bielski (śląskie),500,79,558,805,494,5710,1727,"30,2",2436,Szczyrk,śląskie,m.,<20k
 JPT_2817011,szczycieński,2601,335,2005,3285,2525,22813,8143,"35,7",10751,Szczytno,warmińsko-mazurskie,m.,20k-50k
+JPT_0206041,karkonoski,641,91,503,819,736,6653,2034,"30,6",2790,Szklarska Poręba,dolnośląskie,m.,<20k
 JPT_2401081,będziński,676,139,621,1120,761,6935,2764,"39,9",3317,Sławków,śląskie,m.,<20k
 JPT_3213021,sławieński,1385,179,1033,1696,1334,12357,4475,"36,2",5627,Sławno,zachodniopomorskie,m.,<20k
 JPT_3023011,słupecki,1543,234,1357,2100,1592,13564,4769,"35,2",6827,Słupca,wielkopolskie,m.,<20k
@@ -1338,6 +1342,7 @@ JPT_0613022,parczewski,326,31,215,394,303,3828,979,"25,6",1269,gm.w. Jabłoń,lu
 JPT_1434062,wołomiński,529,67,604,918,566,7433,1952,"26,3",2684,gm.w. Jadów,mazowieckie,g.w.,<20k
 JPT_1405052,grodziski (mazowieckie),832,198,1282,1902,1014,12638,3503,"27,7",5228,gm.w. Jaktorów,mazowieckie,g.w.,<20k
 JPT_1412082,miński,330,55,410,641,355,5103,1261,"24,7",1791,gm.w. Jakubów,mazowieckie,g.w.,<20k
+JPT_0206052,karkonoski,325,55,291,551,418,4274,1208,"28,3",1640,gm.w. Janowice Wielkie,dolnośląskie,g.w.,<20k
 JPT_0614032,puławski,335,50,285,462,346,3666,1116,"30,4",1478,gm.w. Janowiec,lubelskie,g.w.,<20k
 JPT_2811012,nidzicki,230,31,188,362,264,3193,737,"23,1",1075,gm.w. Janowiec Kościelny,warmińsko-mazurskie,g.w.,<20k
 JPT_2811022,nidzicki,209,31,150,260,208,2633,566,"21,5",858,gm.w. Janowo,warmińsko-mazurskie,g.w.,<20k
@@ -1375,6 +1380,7 @@ JPT_0608042,lubartowski,249,14,154,267,243,2722,764,"28,1",927,gm.w. Jeziorzany,
 JPT_0414042,świecki,539,114,562,961,704,8055,1886,"23,4",2880,gm.w. Jeżewo,kujawsko-pomorskie,g.w.,<20k
 JPT_1812032,niżański,419,37,397,631,343,10100,1495,"14,8",1827,gm.w. Jeżowe,podkarpackie,g.w.,<20k
 JPT_1021042,brzeziński,301,37,254,451,274,3328,983,"29,5",1317,gm.w. Jeżów,łódzkie,g.w.,<20k
+JPT_0206062,karkonoski,475,151,586,1129,647,7548,2339,31,2988,gm.w. Jeżów Sudecki,dolnośląskie,g.w.,<20k
 JPT_1803052,dębicki,320,33,278,434,302,5310,1015,"19,1",1367,gm.w. Jodłowa,podkarpackie,g.w.,<20k
 JPT_1207042,limanowski,542,80,607,879,517,8717,1811,"20,8",2625,gm.w. Jodłownik,małopolskie,g.w.,<20k
 JPT_1420062,płoński,249,24,240,350,232,2650,766,"28,9",1095,gm.w. Joniec,mazowieckie,g.w.,<20k
@@ -1686,6 +1692,7 @@ JPT_1218052,wadowicki,286,51,362,557,320,4137,1134,"27,4",1576,gm.w. Mucharz,ma�
 JPT_1609062,opolski (opolskie),452,66,305,565,357,5277,1276,"24,2",1745,gm.w. Murów,opolskie,g.w.,<20k
 JPT_3007072,kaliski,390,46,328,595,386,4862,1074,"22,1",1745,gm.w. Mycielin,wielkopolskie,g.w.,<20k
 JPT_2404112,częstochowski,1137,240,1302,2239,1281,15164,4283,"28,2",6199,gm.w. Mykanów,śląskie,g.w.,<20k
+JPT_0206072,karkonoski,765,206,745,1306,975,10104,3001,"29,7",3997,gm.w. Mysłakowice,dolnośląskie,g.w.,<20k
 JPT_0205032,jaworski,355,75,403,696,436,5007,1522,"30,4",1965,gm.w. Męcinka,dolnośląskie,g.w.,<20k
 JPT_1204042,dąbrowski,315,29,192,386,215,3404,826,"24,3",1137,gm.w. Mędrzechów,małopolskie,g.w.,<20k
 JPT_1428042,sochaczewski,427,89,513,729,487,5559,1573,"28,3",2245,gm.w. Młodzieszyn,mazowieckie,g.w.,<20k
@@ -1823,6 +1830,7 @@ JPT_1406092,grójecki,403,80,422,713,408,4788,1366,"28,5",2026,gm.w. Pniewy,mazo
 JPT_2404132,częstochowski,1010,205,1146,1883,1257,12641,3845,"30,4",5501,gm.w. Poczesna,śląskie,g.w.,<20k
 JPT_0613052,parczewski,153,6,91,137,154,1593,403,"25,3",541,gm.w. Podedwórze,lubelskie,g.w.,<20k
 JPT_1210142,nowosądecki,573,120,882,1290,643,13391,2236,"16,7",3508,gm.w. Podegrodzie,małopolskie,g.w.,<20k
+JPT_0206082,karkonoski,741,139,680,1116,864,8285,2705,"32,6",3540,gm.w. Podgórzyn,dolnośląskie,g.w.,<20k
 JPT_1424032,pułtuski,374,61,428,688,426,5032,1227,"24,4",1977,gm.w. Pokrzywnica,mazowieckie,g.w.,<20k
 JPT_1606032,namysłowski,376,50,353,610,421,5144,1464,"28,5",1810,gm.w. Pokój,opolskie,g.w.,<20k
 JPT_1213072,oświęcimski,394,58,449,728,362,4318,1349,"31,2",1991,gm.w. Polanka Wielka,małopolskie,g.w.,<20k
@@ -2062,6 +2070,7 @@ JPT_1412142,miński,450,70,616,955,552,6797,1819,"26,8",2643,gm.w. Stanisławów
 JPT_1419132,płocki,739,210,1134,2129,891,12019,3537,"29,4",5103,gm.w. Stara Biała,mazowieckie,g.w.,<20k
 JPT_1401042,białobrzeski,328,64,482,638,383,5294,1304,"24,6",1895,gm.w. Stara Błotnica,mazowieckie,g.w.,<20k
 JPT_3214092,stargardzki,231,39,247,416,320,3717,973,"26,2",1253,gm.w. Stara Dąbrowa,zachodniopomorskie,g.w.,<20k
+JPT_0206092,karkonoski,411,84,454,678,533,5250,1637,"31,2",2160,gm.w. Stara Kamienica,dolnośląskie,g.w.,<20k
 JPT_2206082,kościerski,425,87,541,809,537,6826,1538,"22,5",2399,gm.w. Stara Kiszewa,pomorskie,g.w.,<20k
 JPT_1410062,łosicki,385,34,245,393,286,4696,943,"20,1",1343,gm.w. Stara Kornica,mazowieckie,g.w.,<20k
 JPT_2404162,częstochowski,251,37,296,474,304,2853,1041,"36,5",1362,gm.w. Starcza,śląskie,g.w.,<20k
