@@ -321,6 +321,7 @@ JPT_1213023,oświęcimski,1950,396,2114,3287,2346,21103,6882,"32,6",10093,gm.m-w
 JPT_0418043,włocławski,852,159,975,1764,991,11352,3289,29,4741,gm.m-w. Brześć Kujawski,kujawsko-pomorskie,g.m-w.,<20k
 JPT_1803023,dębicki,647,57,521,897,616,12944,2155,"16,6",2738,gm.m-w. Brzostek,podkarpackie,g.m-w.,<20k
 JPT_1802013,brzozowski,1738,278,1722,2759,1840,26553,7343,"27,7",8337,gm.m-w. Brzozów,podkarpackie,g.m-w.,20k-50k
+JPT_3001022,chodzieski,571,119,807,1231,832,8494,2107,"24,8",3560,gm.m-w. Budzyń,wielkopolskie,g.m-w.,<20k
 JPT_3021033,poznański,1099,239,1646,2236,1130,12673,4362,"34,4",6350,gm.m-w. Buk,wielkopolskie,g.m-w.,<20k
 JPT_2601013,buski,3251,350,2698,4673,3123,32005,11087,"34,6",14095,gm.m-w. Busko-Zdrój,świętokrzyskie,g.m-w.,20k-50k
 JPT_0609033,lubelski,1023,129,903,1373,907,11532,3585,"31,1",4335,gm.m-w. Bychawa,lubelskie,g.m-w.,<20k
@@ -486,6 +487,7 @@ JPT_1407053,kozienicki,2728,353,2141,3638,3126,29187,8548,"29,3",11986,gm.m-w. K
 JPT_1805053,jasielski,533,51,504,813,538,8920,2012,"22,6",2439,gm.m-w. Kołaczyce,podkarpackie,g.m-w.,<20k
 JPT_2605033,konecki,3791,425,2714,4825,3371,34857,10780,"30,9",15126,gm.m-w. Końskie,świętokrzyskie,g.m-w.,20k-50k
 JPT_3012033,krotoszyński,1194,163,1107,1812,1180,13140,3651,"27,8",5456,gm.m-w. Koźmin Wielkopolski,wielkopolskie,g.m-w.,<20k
+JPT_3007052,kaliski,536,62,488,859,508,7548,1510,20,2453,gm.m-w. Koźminek,wielkopolskie,g.m-w.,<20k
 JPT_0804043,nowosolski,1410,225,1283,2074,1396,15901,4856,"30,5",6388,gm.m-w. Kożuchów,lubuskie,g.m-w.,<20k
 JPT_3031033,złotowski,473,127,595,938,654,7524,1668,"22,2",2787,gm.m-w. Krajenka,wielkopolskie,g.m-w.,<20k
 JPT_1605023,krapkowicki,2211,434,2048,2880,1963,22337,8131,"36,4",9536,gm.m-w. Krapkowice,opolskie,g.m-w.,20k-50k
@@ -737,6 +739,7 @@ JPT_3028053,wągrowiecki,596,135,989,1297,869,9822,2593,"26,4",3886,gm.m-w. Skok
 JPT_0803053,międzyrzecki,1082,182,1075,1766,1280,11948,4239,"35,5",5385,gm.m-w. Skwierzyna,lubuskie,g.m-w.,<20k
 JPT_0408073,lipnowski,523,62,487,858,625,7470,1938,"25,9",2555,gm.m-w. Skępe,kujawsko-pomorskie,g.m-w.,<20k
 JPT_0223073,wrocławski,1208,223,1130,1860,1240,12872,4402,"34,2",5661,gm.m-w. Sobótka,dolnośląskie,g.m-w.,<20k
+JPT_1420112,płoński,449,45,452,766,562,5752,1682,"29,2",2274,gm.m-w. Sochocin,mazowieckie,g.m-w.,<20k
 JPT_1816113,rzeszowski,797,87,805,1306,827,17268,3201,"18,5",3822,gm.m-w. Sokołów Małopolski,podkarpackie,g.m-w.,<20k
 JPT_2011083,sokólski,2125,265,1841,3163,2296,25184,7778,"30,9",9690,gm.m-w. Sokółka,podlaskie,g.m-w.,20k-50k
 JPT_0403083,bydgoski,1693,447,1859,2920,1529,16777,6203,37,8448,gm.m-w. Solec Kujawski,kujawsko-pomorskie,g.m-w.,<20k
@@ -841,6 +844,7 @@ JPT_0217053,strzeliński,540,91,562,930,623,7041,1862,"26,4",2746,gm.m-w. Wiąz�
 JPT_0413043,sępoleński,1191,194,1155,1750,1216,13309,4291,"32,2",5506,gm.m-w. Więcbork,kujawsko-pomorskie,g.m-w.,<20k
 JPT_2601083,buski,508,44,371,606,471,5420,1403,"25,9",2000,gm.m-w. Wiślica,świętokrzyskie,g.m-w.,<20k
 JPT_0212053,lwówecki,369,43,298,517,486,4214,1301,"30,9",1713,gm.m-w. Wleń,dolnośląskie,g.m-w.,<20k
+JPT_2602092,jędrzejowski,821,117,599,940,707,6893,2074,"30,1",3184,gm.m-w. Wodzisław,świętokrzyskie,g.m-w.,<20k
 JPT_1216133,tarnowski,866,147,1010,1422,848,13340,3065,23,4293,gm.m-w. Wojnicz,małopolskie,g.m-w.,<20k
 JPT_1212073,olkuski,2151,342,2249,3489,2092,22614,7724,"34,2",10323,gm.m-w. Wolbrom,małopolskie,g.m-w.,20k-50k
 JPT_1010113,piotrkowski,658,94,645,1062,662,7836,2206,"28,2",3121,gm.m-w. Wolbórz,łódzkie,g.m-w.,<20k
